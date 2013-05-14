@@ -1,6 +1,8 @@
-Oz-Shorebirds
+Wetland Birds
 =============
+ 
+BirdLife Australia's Wetland Birds iOS App
+ 
+This app is built on Museum Victoria's open source app generation platform
 
-Oz Shorebirds iOS Web App
-
-This repository contains the source for the above app, which was developed using the Sencha Touch framework
+Details are available at www.museumvictoria.com.au/apps/fieldguide
