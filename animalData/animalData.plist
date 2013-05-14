@@ -1,0 +1,3814 @@
+{
+	taxonList = (
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Crakes, Rails & Hens";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = Grebe;
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Egrets & Herons";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Ibis & Spoonbills";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Bitterns & Night-heron";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Cormorants & Darter";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = Pelican;
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Resident Shorebirds";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Migratory Shorebirds";
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = Waterfowl;
+		},
+		{
+			highlightedImage = "animalActive_01_birds@2x.png";
+			standardImage = "animal_01_birds@2x.png";
+			taxonName = "Crane & Stork";
+		},
+	);
+	animalData = (
+		{
+			audioFiles = (
+				{
+					credit = "Contact, other (F.van Gessel)";
+					filename = "audLERA01.mp3";
+				},
+				{
+					credit = "Squeal, grunt (D.Stewart)";
+					filename = "audLERA02.mp3";
+				},
+			);
+			biology = "Lewin\U2019s Rail is usually seen singly. Secretive and cryptic, they skulk among dense vegetation at the edge of wetlands, walking slowly and deliberately, with the short tail regularly flicked up and down. When foraging, they feed with the neck outstretched, picking at the surface of the mud or probing slightly deeper; they often dash back into cover after food has been taken. They seldom fly, and the flight is awkward, with the legs dangling. They call infrequently, and the most common call is a <em>crek</em>.";
+			bite = 24cm;
+			class = "";
+			commonNames = (
+				"Lewin's Rail",
+				"Pectoral, Short-toed, Slate-breasted Rail or Water Rail; Water Rail; Lewin\U2019s Water Rail",
+			);
+			diet = "The <b>Buff-banded Rail</b> is larger and bulkier with a shorter, stouter bill; it also has a white supercilium, a buff breast-band and extensive black-and-white barring on the underparts. The <b>Australian Spotted Crake</b> is readily distinguished from Lewin\U2019s Rail by its smaller size, shorter neck, extensive white spotting and streaking on the upperparts and its greenish bill, legs and feet.";
+			distinctive = "<li>Dark pink bill, grading to grey at the tip</li><li>Chestnut crown and nape on male</li><li>Short tail with fine barring on undersurface</li>";
+			family = Rallidae;
+			genus = Lewinia;
+			habitat = "They inhabit fresh, brackish or saline wetlands, usually with areas of standing water, that are densely vegetated with rushes, reeds, grass or saltmarsh, either emergent or fringing the water. ";
+			identifier = "045 Lewin's Rail";
+			"identifyingCharacteristics" = "The Lewin\U2019s Rail is a stout rail with a small head, a rather long, downcurved bill and short legs. The sexes are similar but with slight differences, and there is no seasonal variation. On the male, the forehead, crown, nape, hindneck and sides of neck are rufous with blackish streaking; the cheeks, throat and foreneck are grey. The upperbody is olive-brown with heavy black streaking. The breast is grey with an olive tinge, and the flanks, belly, vent and under tail-coverts are black with white or buff striping. The upperwing has dark-brown flight feathers, and the coverts are olive-brown with black-and-white barring; the underwing is brownish-grey with a narrow white leading edge. The long, thin bill is dark pink, grading to dusky-grey at the tip; the legs and feet are greyish with a pinkish tinge. The female is similar, but the rufous of the head and neck are browner with heavier streaking.";
+			lcs = Vulnerable;
+			mapImage = (
+				{
+					filename = "mapLERA.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Gruiformes;
+			phylum = "";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illLERA01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgLERA01.jpg";
+				},
+			);
+			species = pectoralis;
+			squareCropImage = (
+				{
+					filename = "thmLERA.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Rails;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "From cover (D.Stewart)";
+					filename = "audBBRA01.mp3";
+				},
+				{
+					credit = "While feeding (R.Swaby)";
+					filename = "audBBRA02.mp3";
+				},
+			);
+			biology = "Buff-banded Rails are usually seen singly. They are generally secretive, skulking among dense vegetation, but occasionally venture out into the open in early morning or late afternoon, usually to feed by picking at small invertebrates from the surface of the ground or on vegetation. They usually walk slowly with a hunched posture, with the tail flicked up and down constantly. When disturbed in the open they run quickly to cover with the neck stretched forward and the head lowered. They seldom fly: their flight is weak and only for short distances. Their most common call is a creaky squeak, by which they are often detected.";
+			bite = 30cm;
+			class = "http://www.birdlife.org.au/bird-profile/buff-banded-rail";
+			commonNames = (
+				"Buff-banded Rail",
+				"Painted, Striped or Pectoral Rail; Landrail, Banded Landrail",
+			);
+			diet = "The Lewin\U2019s Rail is smaller and slimmer with a longer, slightly downcurved bill. It lacks an orange-brown breast band, and has a rich chestnut crown and nape.";
+			distinctive = "<li>White eyebrow</li><li>Chestnut eye-stripe</li><li>Prominent rich-buff breast band</li>";
+			family = Rallidae;
+			genus = Gallirallus;
+			habitat = "Buff-banded Rails inhabit various terrestrial, estuarine and littoral wetlands with fresh, brackish or saline water. They usually occur among dense vegetation, such as rank grass, sedges, reeds and rushes, saltmarsh and, occasionally, mangroves. They are also occasionally observed in vegetated sections of built-up areas, such as parks and gardens, creek reserves and ovals.";
+			identifier = "046 Buff-banded Rail";
+			"identifyingCharacteristics" = "A medium-sized, stout rail with short legs, the Buff-banded Rail has a distinctive pale eyebrow and an orange-brown band across its breast. The sexes are similar, with no seasonal variation. The crown and nape are dull chestnut with black streaks; there is a pale supercilium above a chestnut eye-stripe which extends down the sides of the neck and onto the hindneck. The cheeks, chin and throat are greyish white. The upperparts are brown with black patches and white spots. The breast and flanks have black-and-white barring, and there is a broad, rich-buff band across the breast; the belly and vent are white, sometimes with narrow black bars, and the undertail is pale buff. On the upperwing the flight feathers are rufous with black barring, while the innerwing is brownish olive with sparse white spotting. The underwing has rufous flight feathers with black barring, with barred black-and-white coverts. The eye is red, bill dark pink, the legs and feet are greyish, sometimes with a pinkish tinge.";
+			lcs = "Least Concern";
+			mapImage = (
+				{
+					filename = "mapBBRA.jpg";
+				},
+			);
+			nativeStatus = "Australian resident";
+			ncs = "";
+			order = Gruiformes;
+			phylum = "Buff-banded Rail Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBBRA01.jpg";
+				},
+				{
+					credit = "Don Bowes";
+					filename = "imgBBRA01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgBBRA02.jpg";
+				},
+			);
+			species = pectoralis;
+			squareCropImage = (
+				{
+					filename = "thmBBRA.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Rails;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults feeding (R.Swaby)";
+					filename = "audASCR01.mp3";
+				},
+			);
+			biology = "They are usually seen singly, but may form small groups. They walk with a slow gait, constantly flicking the tail upwards, revealing their white undertail; when they are disturbed they may run with a crouching posture with the tail cocked. They seldom fly, usually over a short distance, with laboured and fluttering wing-beats and the legs dangling. They readily swim. Australian Spotted Crakes forage by picking at invertebrates from the substrate or vegetation. Their most common call is a metallic, staccato call.";
+			bite = 21cm;
+			class = "http://www.birdlife.org.au/bird-profile/australian-spotted-crake";
+			commonNames = (
+				"Australian Spotted Crake",
+				"Spotted, Australian or Water Crake",
+			);
+			diet = "The <b>Baillon\U2019s Crake</b> is smaller and generally paler, and has a uniformly greenish bill. The <b>Spotless Crake</b> is uniform in the colour of its upperparts and underparts (except for the barred undertail) and has reddish legs. The <b>Lewin\U2019s Rail</b> has a rufous head and neck, light-grey foreneck and breast, no white flecking on the upperparts, a longer, pinkish bill, and a shorter tail.";
+			distinctive = "<li>Short, greenish bill with red base</li><li>Dark slate-grey face and breast</li><li>Upperparts flecked black and white</li><li>Longish tail with plain white undertail</li>";
+			family = Rallidae;
+			genus = Porzana;
+			habitat = "Australian Spotted Crakes inhabit the well-vegetated margins of freshwater, brackish or saline wetlands, where they usually occur among dense cover of reeds, rushes, sedges or shrubs. ";
+			identifier = "049 Australian Spotted Crake";
+			"identifyingCharacteristics" = "The Australian Spotted Crake is a small, plumpish crake. Its face is dark grey; the crown, nape and hindneck are brownish olive with bold black-and-white streaking; the rest of the upperparts are also olive-brown, with heavily black streaking and white spotting. The underparts are dark grey, with fine white spots at the sides of the foreneck and breast, and strong black-and-white barring on the flanks, belly and vent; the undertail is white. The upperwing is brown with black-and-white flecking, and the underwing has ashy-grey flight feathers, with black-and-white barring on the remainder. The bill is light-green or olive-yellow with a bright-red base; the eye is bright red; and the legs and feet are green or olive-yellow.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapASCR.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Gruiformes;
+			phylum = "Australian Spotted Crake Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illASCR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgASCR01.jpg";
+				},
+			);
+			species = fluminea;
+			squareCropImage = (
+				{
+					filename = "thmASCR.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Crakes;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (NZ Wildlife Service)";
+					filename = "audBACR01.mp3";
+				},
+			);
+			biology = "Secretive and nervous, Baillon\U2019s Crakes are usually seen stalking or dashing with a horizontal posture through aquatic vegetation, that is either floating on the water or at the margins of the wetland. The tail is often flicked upwards or held erect. They run nimbly over or through vegetation, and readily swim. They seldom fly, but when flushed, the flight is weak and fluttering, with legs trailing. They give a harsh <em>krek-krek</em> call.";
+			bite = 15cm;
+			class = "";
+			commonNames = (
+				"Baillon's Crake",
+				"Lesser Spotted, Pallas\U2019, Tiny, Little, Little Water or Marsh Crake",
+			);
+			diet = "The <b>Australian Spotted Crake</b> is larger with darker brownish-olive upperparts and slaty-grey underparts. The <b>Spotless Crake</b> is also larger, and has plain, dark reddish-brown upperparts without any streaking, and slate-grey underparts.";
+			distinctive = "<li>Cinnamon-brown upperparts with black and white streaks</li><li>Light-grey underparts</li><li>Undertail coverts are barred black and white</li>";
+			family = Rallidae;
+			genus = Porzana;
+			habitat = "Baillon\U2019s Crakes usually inhabit vegetated freshwater or brackish wetlands, permanent or ephemeral, with dense vegetation, such as reeds, sedges, shrubs or floating aquatic vegetation.";
+			identifier = "050 Baillon's Crake";
+			"identifyingCharacteristics" = "The Baillon\U2019s Crake is the smallest of Australia\U2019s crakes. The forehead, crown and nape are cinnamon-brown with blackish streaks, and the face and foreneck are light grey. The upperparts are cinnamon-brown, as the top of the head, streaked with black and white, except for the tail, which is unstreaked. The breast is light grey to white with light barring on the flanks. The undertail is barred black and white. The upperwing is cinnamon-brown with black and white streaks (as rest of upperbody), while the underwing is light grey. The bill is greenish, the eye is red and the legs and feet are olive-yellow.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBACR.jpg";
+				},
+			);
+			nativeStatus = "Australian resident";
+			ncs = "";
+			order = Gruiformes;
+			phylum = "";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBACR01.jpg";
+				},
+				{
+					credit = "Jennifer Sutfin";
+					filename = "imgBACR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgBACR02.jpg";
+				},
+			);
+			species = pusilla;
+			squareCropImage = (
+				{
+					filename = "thmBACR.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Crakes;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult, chicks (R.Swaby)";
+					filename = "audSPCR01.mp3";
+				},
+				{
+					credit = "Adult (N.Robinson)";
+					filename = "audSPCR02.mp3";
+				},
+			);
+			biology = "Spotless Crakes usually occur singly or in small, loose groups, pecking at food items from the substrate or vegetation. They are shy and secretive, usually foraging among dense vegetation and seldom coming out into the open. Walk with a slow, stalking gait, constantly flicking the tail, and may run nimbly; they often swim but seldom fly, even when flushed, and only fly short distances; their flight is laboured and fluttering, with the legs dangling. ";
+			bite = 19cm;
+			class = "";
+			commonNames = (
+				"Spotless Crake",
+				"Leaden, Swamp, Spotless, or Water Crake; Blue or Swamp Rail; Little Swamphen, Little Native-hen; Waterhen; Motorcar-bird",
+			);
+			diet = "The uniform coloration of the plumage and the reddish legs readily separates the Spotless Crake from other crakes, such as the <b>Baillon\U2019s Crake</b> and the <b>Australian Spotted Crake</b>.";
+			distinctive = "<li>Reddish legs</li><li>Red eye</li><li>Uniform brown upperparts</li><li>Uniform dark-grey underparts</li><li>Barred, black-and-white undertail</li>";
+			family = Rallidae;
+			genus = Porzana;
+			habitat = "The Spotless Crake inhabits a variety of freshwater or brackish terrestrial or littoral wetlands with a dense cover of reeds, rushes, sedges or shrubs, including saltmarsh.";
+			identifier = "051 Spotless Crake";
+			"identifyingCharacteristics" = "A small, plumpish crake with plain dark brown upperparts. The head and neck are slate-grey; the back is dark reddish-brown, grading to darker brown on the rump ; the tail is blackish brown. The underbody is slate-grey, grading to grey-black on the under tail-coverts, which are narrowly barred white. The flight feathers of the upperwing are blackish, while the coverts are dark brown, and the underwing is dark grey. The bill is black, the eye deep red and the legs and feet reddish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapSPCR.jpg";
+				},
+			);
+			nativeStatus = "Australian resident";
+			ncs = "";
+			order = Gruiformes;
+			phylum = "";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illSPCR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgSPCR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgSPCR02.jpg";
+				},
+			);
+			species = tabuensis;
+			squareCropImage = (
+				{
+					filename = "thmSPCR.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Crakes;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Sharp calls (F.James)";
+					filename = "audBTNH01.mp3";
+				},
+				{
+					credit = "Adult clicks (R.Buckingham)";
+					filename = "audBTNH02.mp3";
+				},
+				{
+					credit = "Fast call (R.Buckingham)";
+					filename = "audBTNH03.mp3";
+				},
+				{
+					credit = "At nest (R.Swaby)";
+					filename = "audBTNH04.mp3";
+				},
+			);
+			biology = "Highly nomadic and irruptive, Black-tailed Native-hens sometimes congregate in large numbers, and are often the first arrivals when ephemeral wetlands are inundated. They have a high-stepping walk, with the head and tail held erect, and they frantically scramble to cover if disturbed, and during irruptions, may run across the landscape. They sometimes swim buoyantly but seldom fly. They are usually silent.";
+			bite = 36cm;
+			class = "http://www.birdlife.org.au/bird-profile/black-tailed-native-hen";
+			commonNames = (
+				"Black-tailed Native-hen",
+				"Black-tailed Waterhen; Gallinule; Waterhen; Swamphen; Barcoo Bantam",
+			);
+			diet = "The uniform coloration of the plumage and the reddish legs readily separates the Spotless Crake from other crakes, such as the <b>Baillon\U2019s Crake</b> and the <b>Australian Spotted Crake</b>.";
+			distinctive = "<li>Erect, black tail</li><li>Lime green-yellow bill (blue breeding flush)</li><li>Conspicuous yellow eye</li><li>White streaks on flank</li>";
+			family = Rallidae;
+			genus = Tribonyx;
+			habitat = "Opportunistically inhabiting permanent or ephemeral terrestrial wetlands, the Black-tailed Native-hen occurs at a wide range of fresh or brackish (or occasionally saline) waters, as well as open habitats nearby, often among low shrubs on floodplains or lignum swamps.";
+			identifier = "055 Black-tailed Native-hen";
+			"identifyingCharacteristics" = "The Black-tailed Native-hen is a large, sturdy and fleet-footed rail with an erect black tail. On the male, the face is slate grey; the upperparts are olive-brown; the underparts and sides of the neck are all slate grey or blackish, though the flanks have distinct white spots; the upperwing is olive-brown, and the underwing is dark grey with white stripes across the coverts. The bill and small frontal shield are light green, though the base of the lower mandible is orange-red. The legs and feet are coral-pink. The female is similar, but generally duller, and with smaller spots on the flanks.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBTNH.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Gruiformes;
+			phylum = "Black-tailed Native-hen Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBTNH01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgBTNH01.jpg";
+				},
+			);
+			species = mortierii;
+			squareCropImage = (
+				{
+					filename = "thmBTNH.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Hens;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults (R.Buckingham)";
+					filename = "audDUMO01.mp3";
+				},
+				{
+					credit = "Female (R.Buckingham)";
+					filename = "audDUMO02.mp3";
+				},
+				{
+					credit = "Adult grunts (R.Buckingham)";
+					filename = "audDUMO03.mp3";
+				},
+				{
+					credit = "Juvenile trills (R.Buckingham)";
+					filename = "audDUMO04.mp3";
+				},
+			);
+			biology = "Although Dusky Moorhens may occur in small groups, they seldom form large flocks. They feed in the water by upending or taking food from the water\U2019s surface, but they never dive; they also often feed on land beside wetlands. They swim buoyantly with the neck upstretched, and the head jerking back and forth; and they walk with high steps. Moorhens fly with rapid and shallow wing-beats, with the head and neck extended and the lobed feet either dangling down or extending beyond the tail. The tail is often flicked upwards, either when swimming or on land.";
+			bite = 38cm;
+			class = "http://www.birdlife.org.au/bird-profile/dusky-moorhen";
+			commonNames = (
+				"Dusky Moorhen",
+				"Black or Sombre Moorhen or Gallinule",
+			);
+			diet = "The <b>Eurasian Coot</b> is readily distinguished by its all-black plumage and its prominent white frontal shield and bill.";
+			distinctive = "<li>Red frontal shield</li><li>Red bill with yellow tip</li><li>White tail coverts on otherwise black plumage</li>";
+			family = Rallidae;
+			genus = Gallinula;
+			habitat = "Dusky Moorhens usually inhabit freshwater wetlands with areas of open water and emergent or floating vegetation, such as swamps, lagoons, rivers and artificial wetlands, and they often venture onto the grassy banks of these wetlands, though they usually remain near cover. They can sometimes also be seen at coastal wetlands with brackish or saline water.";
+			identifier = "056 Dusky Moorhen";
+			"identifyingCharacteristics" = "A medium-sized waterhen, the Dusky Moorhen has slate-black head and neck, with the rest of the upperbody being dark olive-brown. The underparts are generally slaty black, with a broken white line sometimes present along the flanks; the tail is mostly black, with white outer feathers and white under tail-coverts which are readily seen when the bird flicks its tail. ";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapDUMO.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Rallidae;
+			phylum = "Dusky Moorhen Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illDUMO01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgDUMO01.jpg";
+				},
+			);
+			species = tenebrosa;
+			squareCropImage = (
+				{
+					filename = "thmDUMO.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Hens;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults (R.Swaby)";
+					filename = "audPUSW01.mp3";
+				},
+				{
+					credit = "Juvenile (R.Buckingham)";
+					filename = "audPUSW02.mp3";
+				},
+			);
+			biology = "On land Purple Swamphens walk slowly and heron-like, constantly flicking the tail upwards to reveal white under tail-coverts, and may occasionally run while flapping the wings. Purple Swamphens seldom swim, but do so buoyantly, with the head jerked back and forth. When flushed, they run over the surface of the water before laboriously taking off, but once airborne, the flight is strong with rapid wing-beats, thought he legs may dangle. They feed by grazing with the powerful bill, often holding food in their feet.";
+			bite = 46cm;
+			class = "http://www.birdlife.org.au/bird-profile/purple-swamphen";
+			commonNames = (
+				"Purple Swamphen",
+				"Azure-breasted, Black-backed, Purple Gallinule or Waterhen; Sultana Hen; Bald Coot; Blue Bald Coot; Blue-breasted, Eastern or Western Swamphen; Macquarie Waterhen; Redbill",
+			);
+			diet = "The <b>Eurasian Coot</b> is readily distinguished by its all-black plumage and its prominent white frontal shield and bill.";
+			distinctive = "<li>Deep blue underparts</li><li>Robust red bill and frontal shield</li>";
+			family = Rallidae;
+			genus = Porphyrio;
+			habitat = "Purple Swamphens inhabit a range of open terrestrial wetlands, especially freshwater or brackish swamps, but are also occasionally seen on saline wetlands. They regularly graze on adjacent grasslands or other grassy areas such as pasture, lawns, golf courses and the like. They are often recorded among dense growths of reeds and rushes.";
+			identifier = "058 Purple Swamphen";
+			"identifyingCharacteristics" = "A large distinctive gallinule, the sexes of the Purple Swamphen appear similar, though the male is larger with a larger frontal shield. The crown, nape and face are glossy black; the neck is deep indigo-blue, and the rest of the upperparts are glossy black. The chin, throat, foreneck, breast and upper belly are deep indigo-blue, the lower belly and vent are black, and the under tail-coverts are white. The wings are black. The bill and large frontal shield are bright red, the legs and feet are pin-red with dusky joints.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapPUSW.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Rallidae;
+			phylum = "Purple Swamphen Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illPUSW01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgPUSW01.jpg";
+				},
+			);
+			species = porphyrio;
+			squareCropImage = (
+				{
+					filename = "thmPUSW.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Hens;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Buckingham)";
+					filename = "audEUCO01.mp3";
+				},
+				{
+					credit = "Chicks (R.Buckingham)";
+					filename = "audEUCO02.mp3";
+				},
+				{
+					credit = "Juvenile (R.)Buckingham";
+					filename = "audEUCO03.mp3";
+				},
+			);
+			biology = "Often gregarious, Eurasian Coots may form flocks of hundreds or sometimes thousands of birds, which form rafts across the water\U2019s surface. They swim high on the water, jerking the head back and forth. The birds often dive underwater to eat aquatic vegetation, or collect it at the surface, or walk on nearby dry land to graze. The flight is low and fast, with rapid, shallow wing-beats, taking off with the feet pattering across the water\U2019s surface and then trailing behind the tail. They are often noisy, with the most common call a harsh <em>crark</em>.";
+			bite = 37cm;
+			class = "http://www.birdlife.org.au/bird-profile/eurasian-coot";
+			commonNames = (
+				"Eurasian Coot",
+				Coot,
+			);
+			diet = "The <b>Dusky Moorhen</b> is superficially similar, but has a red frontal shield, a red bill with a yellow tip, white tail coverts, red legs and red-and-yellow feet.";
+			distinctive = "<li>White frontal shield and bill</li>";
+			family = Rallidae;
+			genus = Fulica;
+			habitat = "They prefer terrestrial wetlands with submerged or emergent aquatic vegetation, such as lagoons, billabongs, rivers and lakes, though they are also occasionally recorded in estuarine habitats. They can tolerate a range of fresh, brackish and saline waters, and they are very occasionally recorded at hypersaline wetlands.";
+			identifier = "059 Eurasian Coot";
+			"identifyingCharacteristics" = "A medium-sized waterhen, the Eurasian Coot has entirely black plumage. It has a prominent white bill and white frontal shield; the legs and feet are dark grey.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapEUCO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Rallidae;
+			phylum = "Eurasian Coot Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illEUCO01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgEUCO01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgEUCO02.jpg";
+				},
+			);
+			species = atra;
+			squareCropImage = (
+				{
+					filename = "thmEUCO.jpg";
+				},
+			);
+			taxonGroup = "Crakes, Rails & Hens";
+			taxonSubgroup = Hens;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Swaby)";
+					filename = "audGCGR01.mp3";
+				},
+				{
+					credit = "Chicks (R.Buckingham)";
+					filename = "audGCGR02.mp3";
+				},
+			);
+			biology = "The Great Crested Grebe often dives below the water\U2019s surface to feed on fish; dive without splashing. They swim low on the water, with the neck held erect and the head horizontal. Great Crested Grebes are rarely seen in flight and rarely venture out of the water. They perform an elaborate courtship display, involving both birds, including the spectacular \U2018Penguin Display\U2019. Although they are not especially gregarious, they may, very occasionally, form flocks.";
+			bite = 54cm;
+			class = "http://www.birdlife.org.au/bird-profile/great-crested-grebe";
+			commonNames = (
+				"Great Crested Grebe",
+				"Crested Grebe, Southern Crested Grebe, Tippet Grebe, Topknot Shag, Gaunt, Loon, Carr Goose",
+			);
+			diet = "";
+			distinctive = "<li>Double crest</li><li>Sharp, straight bill</li><li>Long, thin neck held erect, with head held at right angles to it</li>";
+			family = Podicipedidae;
+			genus = Podiceps;
+			habitat = "Great Crested Grebes usually inhabit large, deep and open wetlands, especially freshwater ones such as lakes and reservoirs, but also occur in brackish or saline wetlands such as estuaries, embayments and saline lakes.";
+			identifier = "060 Great Crested Grebe";
+			"identifyingCharacteristics" = "A large, slender diving waterbird with a double crest and sharp, straight beak, the Great Crested Grebe is characterised by a black double crest. The rest of the head comprises a white face, and a distinct ruff, which merges from chestnut on the sides of the head to black on the nape and upperneck. The upperparts are dark brown, and the underparts are white. The upperwing is dark brown with white patches on the basal half of the leading edge and on the secondaries, and the underwing is white. The thin, pointed bill is pinkish brown, and the legs and feet are dark olive-green.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAUGR.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Podicipediformes;
+			phylum = "Great Crested Grebe Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illGCGR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgGCGR01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgGCGR02.jpg";
+				},
+			);
+			species = cristatus;
+			squareCropImage = (
+				{
+					filename = "thmGCGR.jpg";
+				},
+			);
+			taxonGroup = Grebe;
+			taxonSubgroup = Grebe;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Mated pair (R.Buckingham)";
+					filename = "audAUGR01.mp3";
+				},
+				{
+					credit = "Distress call (N.Robinson)";
+					filename = "audAUGR02.mp3";
+				},
+			);
+			biology = "Seldom seen out of water, the Australasian Grebe is usually seen singly or in twos. They swim or float buoyantly and dive underwater to collect their food of aquatic invertebrates and small fish. They fly low over the water with rapid whirring wingbeats.";
+			bite = 24cm;
+			class = "http://www.birdlife.org.au/bird-profile/australasian-grebe";
+			commonNames = (
+				"Australasian Grebe",
+				"Australian, Little, Australian Little, Red-necked or Black-throated Grebe; Dabchick or Diver; Tom Pudding",
+			);
+			diet = "When in non-breeding plumage, the <b>Hoary-headed Grebe</b> is difficult to distinguish. The Australasian Grebe has a pale yellow smudge at the base of its bill, and the line separating the dark crown from the pale face runs through the bird\U2019s eye (below eye in Hoary-headed).";
+			distinctive = "<li>Conspicuous yellow patch between base of bill and eye in breeding plumage; often present, though paler, in non-breeding plumage</li>";
+			family = Podicipedidae;
+			genus = Tachybaptus;
+			habitat = "Australasian Grebes inhabit almost any freshwater wetland, where they are mostly seen swimming near the shore or among fringing vegetation.";
+			identifier = "061 Australasian Grebe";
+			"identifyingCharacteristics" = "A small grebe with a short neck and a stout, blunt-ended body, when in breeding plumage the Australasian Grebe is mostly dark grey-black on its head and upperparts, with a rich chestnut stripe on the side of the neck, extending from behind the eye to the mid-neck. There is a conspicuous patch of yellow skin between the base of the bill and the eye. The upper breast is dark brown with pale mottling, and most of the rest of the underparts are whitish, with tawny flanks. The rear is fluffy white.</p><br/><p>In non-breeding plumage, the plumage is paler, especially on the face and neck: the pale cheeks and throat contrast with dark crown, separated by a distinct line. Upperparts are a paler version of breeding plumage, and the underparts are off-white. The sexes are similar.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAUGR.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Podicipediformes;
+			phylum = "Australasian Grebe Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAUGR01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAUGR02.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgAUGR01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAUGR02.jpg";
+				},
+			);
+			species = novaehollandiae;
+			squareCropImage = (
+				{
+					filename = "thmAUGR.jpg";
+				},
+			);
+			taxonGroup = Grebe;
+			taxonSubgroup = Grebe;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Various (F.James)";
+					filename = "audHHGR01.mp3";
+				},
+			);
+			biology = "Seldom seen out of the water, Hoary-headed Grebes often form large flocks. They swim buoyantly with the neck held erect, and dive with a small jump forward. Their flight is characterised by rapid wing-beats with the head and neck extended and the large feet protruding behind; the flight is usually for a short distance, low over the water\U2019s surface. They feed by diving deep underwater, where they collect aquatic invertebrates. ";
+			bite = 29cm;
+			class = "http://www.birdlife.org.au/bird-profile/hoary-headed-grebe";
+			commonNames = (
+				"Hoary-headed Grebe",
+				"Dabchick, Hoary-headed Dabchick, Tom Pudding",
+			);
+			diet = "When in non-breeding plumage, the <b>Australasian Grebe</b> is difficult to distinguish. The main difference is that the line separating the dark crown from the pale face runs below the bird\U2019s eye (through eye in Australasian), and a grey wash on the flanks (buff in Australasian). Its posture when swimming is often more upright than that of the Australasian Grebe.";
+			distinctive = "<li>Conspicuous streaking on head in breeding plumage</li><li>In non-breeding plumage, the dark cap extends below the eye</li>";
+			family = Podicipedidae;
+			genus = Poliocephalus;
+			habitat = "Hoary-headed Grebes inhabit a variety of terrestrial and sheltered estuarine wetlands, often preferring large, open, permanent waterbodies with submerged vegetation, though regularly recorded on smaller or ephemeral wetlands. ";
+			identifier = "062 Hoary-headed Grebe";
+			"identifyingCharacteristics" = "The Hoary-headed Grebe is a small dumpy grebe with a downy rear end. In breeding plumage, the entire head is dark with conspicuous silver-white streaks. The upperparts are grey-brown. The neck and breast are off-white, with grayish flanks and a white belly. The upperwings are mostly dark with contrasting white secondaries, while the underwing is mostly white, with dark flight feathers. The bill is black with a white tip, and the legs and feet are grayish yellow.</p><br /><p>In non-breeding plumage, the head pattern lacks pale streaking, appearing dark grey, which, on the face, extends to just below the eye, and behind, extends over the nape and along the hindneck. The rest of the plumage, as breeding. The bill becomes light, yellowish or greenish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapHHGR.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Podicipediformes;
+			phylum = "Hoary-headed Grebe Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illHHGR01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illHHGR02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgHHGR01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgHHGR02.jpg";
+				},
+			);
+			species = poliocephalus;
+			squareCropImage = (
+				{
+					filename = "thmHHGR.jpg";
+				},
+			);
+			taxonGroup = Grebe;
+			taxonSubgroup = Grebe;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Swaby)";
+					filename = "audGRCO01.mp3";
+				},
+			);
+			biology = "Great Cormorants forage by diving underwater to catch fish and invertebrates; small prey is eaten below the water, but larger prey is brought to the surface to be eaten. When not foraging they swim on the water\U2019s surface. On land they walk with a goose-like waddle, and often perch with their wings extended to dry. Their flight consists of several rapid flaps of the wings followed by a glide; the neck is held in an \U2018S\U2019-shape, with the head held high. They are often seen singly, but may congregate at sites of abundant food or to roost. They are generally quiet away from the nest, but are loud and raucous at their breeding grounds.";
+			bite = 82cm;
+			class = "http://www.birdlife.org.au/bird-profile/great-cormorant";
+			commonNames = (
+				"Great Cormorant",
+				"Black, Big or Large Black Cormorant or Shag",
+			);
+			diet = "The <b>Little Black Cormorant</b> is much smaller and more slender, and has a thin bill. It also has an all-black face, lacking yellow facial skin. ";
+			distinctive = "<li>All-black plumage</li><li>Yellow skin on face</li><li>Stout bill</li>";
+			family = Phalacrocoracidae;
+			genus = Phalacrocorax;
+			habitat = "The Great Cormorant is widespread in a variety of terrestrial wetlands and coastal waters, where it is usually associated with large sheets of deep, open water. It is also recorded, though less often, on smaller or shallower wetlands.";
+			identifier = "096 Great Cormorant";
+			"identifyingCharacteristics" = "A large, mostly-black cormorant, during the breeding season the Great Cormorant has a prominent crest on the nape that is often held erect. The head and neck are glossy black, with a pale throat patch that may extend onto the sides of the face in breeding birds. The body is glossy black, except for a white patch on the flanks of breeding birds, and the upperwings are grey-brown with a bronze sheen. The bare skin on the face is yellow on non-breeding birds, but bright orange-red on breeding birds. The bill is grey with a dark culmen, and the legs and feet are black.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapGRCO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Phalacrocoraciformes;
+			phylum = "Great Cormorant Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illGRCO01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illGRCO02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgGRCO01.jpg";
+				},
+			);
+			species = carbo;
+			squareCropImage = (
+				{
+					filename = "thmGRCO.jpg";
+				},
+			);
+			taxonGroup = "Cormorants & Darter";
+			taxonSubgroup = Cormorants;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Young (R.Swaby)";
+					filename = "audLBCO01.mp3";
+				},
+				{
+					credit = "Flock (H.Horton)";
+					filename = "audLBCO02.mp3";
+				},
+				{
+					credit = "Nestlings (R.Swaby)";
+					filename = "audLBCO03.mp3";
+				},
+			);
+			biology = "Little Black Cormorants are often seen in flocks, sometimes feeding cooperatively as they swim underwater in pursuit of fish or aquatic invertebrates. The flight is strong, with wing-beats interspersed with glides, but on land they have a waddling gait. They often perch on branches with their wings extended. They are generally quiet away from their breeding colonies, but make a number of calls during the breeding season.";
+			bite = 61cm;
+			class = "http://www.birdlife.org.au/bird-profile/little-black-cormorant";
+			commonNames = (
+				"Little Black Cormorant",
+				"Little Black Shag",
+			);
+			diet = "The <b>Great Cormorant</b> is much larger, with a more robust bill, yellow facial skin and a white patch on the flanks in breeding plumage.";
+			distinctive = "<li>Small, all-black cormorant</li><li>Slender bill</li>";
+			family = Phalacrocoracidae;
+			genus = Phalacrocorax;
+			habitat = "The Little Black Cormorant inhabits a wide range of terrestrial wetlands and sheltered coastal waters. Away from the coast they are often seen at large, deep wetlands, especially lakes, but also sometimes occur on smaller or shallower wetlands, while along the coasts they are most common in estuaries and lagoons.";
+			identifier = "097 Little Black Cormorant";
+			"identifyingCharacteristics" = "A small, all-black cormorant, the sexes of the Little Black Cormorant are alike. The head and neck are black, though in breeding plumage the head may have some inconspicuous white speckling; the upperparts and underparts are entirely black. The bill is dark grey-brown with a darker culmen, and the legs and feet are black.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapLBCO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Phalacrocoraciformes;
+			phylum = "Little Black Cormorant Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illLBCO01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illLBCO02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgLBCO01.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgLBCO02.jpg";
+				},
+			);
+			species = sulcirostris;
+			squareCropImage = (
+				{
+					filename = "thmLBCO.jpg";
+				},
+			);
+			taxonGroup = "Cormorants & Darter";
+			taxonSubgroup = Cormorants;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "From rookery (J.Hutchinson)";
+					filename = "audPICO01.mp3";
+				},
+				{
+					credit = "Young at nest (E.Lindgren)";
+					filename = "audPICO02.mp3";
+				},
+			);
+			biology = "Pied Cormorants often perch with their wings extended. They walk with a goose-like waddle; they often swim on the surface of the water, and feed by diving below the surface, propelled by both feet and steered by half-open wings. In flight the neck is held in an \U201cS\U2019 shape with the head held high; the flight is usually low and straight. They are usually solitary but may congregate to roost. Usually quiet, they may be raucous at nesting colonies.";
+			bite = 73cm;
+			class = "http://www.birdlife.org.au/bird-profile/pied-cormorant";
+			commonNames = (
+				"Pied Cormorant",
+				"Large Pied, Black-and-white or Yellow-faced Cormorant or Shag",
+			);
+			diet = "The <b>Little Pied Cormorant</b> is much smaller with a stubby yellow bill, a much longer tail and lacks a black thigh patch. The <b>Black-faced Cormorant</b> has black facial skin and black feathering below the eye, imparting a black-faced appearance, and white feathering on the chin extends to the base of the mandibles.";
+			distinctive = "<li>Bare orange or yellow skin between eye and bill</li><li>Blue skin around eye</li><li>Pink skin on gular pouch, chin and above the gape</li><li>Black thighs</li>";
+			family = Phalacrocoracidae;
+			genus = Phalacrocorax;
+			habitat = "They mainly inhabit marine environments, though they are also often recorded at terrestrial and coastal wetlands, particularly at large, deep, permanent, open waters, especially lakes and reservoirs.";
+			identifier = "099 Pied Cormorant";
+			"identifyingCharacteristics" = "A large black-and-white cormorant. The upperparts are entirely black; feathered portions of the face, the sides of the neck and the underparts are all white except the thighs, which are black. The wings are black above and below. Parts of the face have bare skin, being orange or yellow between eye and bill, blue around the eye, and the gular pouch, chin and the area above the gape are pink. The bill is grey with a dark culmen, and the legs and feet are black. During non-breeding season, the black plumage of the upperparts fades to dark brown, and the orange facial skin fades to yellow, and the skin around the eye fades to green.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapPICO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Phalacrocoraciformes;
+			phylum = "Pied Cormorant Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illPICO01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illPICO02.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgPICO01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgPICO02.jpg";
+				},
+			);
+			species = varius;
+			squareCropImage = (
+				{
+					filename = "thmPICO.jpg";
+				},
+			);
+			taxonGroup = "Cormorants & Darter";
+			taxonSubgroup = Cormorants;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (H.Pollock)";
+					filename = "audLPCO01.mp3";
+				},
+			);
+			biology = "They walk with a slow waddle. They often swim on the water\U2019s surface, and dive below in pursuit of food; when stalking prey underwater, they hold the feet out to the sides of the body, like oars. They usually forage singly, but often congregate to loaf. They often rest with their wings extended. They are generally silent except in nesting colonies.";
+			bite = 61cm;
+			class = "http://www.birdlife.org.au/bird-profile/little-pied-cormorant";
+			commonNames = (
+				"Little Pied Cormorant",
+				"Little, White-throated, Little Black-and-white Cormorant or Shag; Frilled or Little River Shag",
+			);
+			diet = "The Pied Cormorant is much larger, has colourful facial skin and has black-feathered thighs. The Black-faced Cormorant has black above and in front of the eye, black facial skin and black thighs.";
+			distinctive = "<li>Small yellow bill</li><li>Long, wedge-shaped tail</li>";
+			family = Phalacrocoracidae;
+			genus = Phalacrocorax;
+			habitat = "Little Pied Cormorants inhabit a wide variety of terrestrial wetlands and sheltered coastal habitats.";
+			identifier = "100 Little Pied Cormorant";
+			"identifyingCharacteristics" = "A small black-and-white cormorant. The upperparts are entirely black; the face, the sides of the neck and the underparts are all white except the under tail-coverts, which are black. The wings are black above and below. The bill is yellow with a dark culmen, and the legs and feet are black. During non-breeding season, the black plumage of the upperparts fades to dark brown, and the orange facial skin fades to yellow, and the skin around the eye fades to green.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapLPCO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Phalacrocoraciformes;
+			phylum = "Little Pied Cormorant Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illLPCO01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgLPCO01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgLPCO02.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgLPCO03.jpg";
+				},
+			);
+			species = melanoleucos;
+			squareCropImage = (
+				{
+					filename = "thmLPCO.jpg";
+				},
+			);
+			taxonGroup = "Cormorants & Darter";
+			taxonSubgroup = Cormorants;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult low perch (R.Buckingham)";
+					filename = "audAUDA01.mp3";
+				},
+				{
+					credit = "Adult on nest (R.Swaby)";
+					filename = "audAUDA02.mp3";
+				},
+				{
+					credit = "Defence of young (R.Swaby)";
+					filename = "audAUDA03.mp3";
+				},
+				{
+					credit = "Young begging (R.Swaby)";
+					filename = "audAUDA04.mp3";
+				},
+			);
+			biology = "The Australasian Darter often swims with its body submerged and just the head and neck exposed, and catch fish by diving below the water, spearing them with its pointed beak. Small fish are eaten underwater, while larger fish are taken to the surface where they are swallowed head-first, or taken to a nearby perch and then swallowed The fish is pierced from underneath, flicked onto the water's surface and then swallowed head first. They are often seen perched with their wings outstretched to dry in the sun. Clumsy on land, but glide gracefully in flight.";
+			bite = 90cm;
+			class = "http://www.birdlife.org.au/bird-profile/australasian-darter";
+			commonNames = (
+				"Australasian Darter",
+				"Darter, Australian or Oriental Darter, Diver, Shag, Needle-beaked Shag, Snakebird, Snake-bird",
+			);
+			diet = "None - the Australasian Darter's slender body, long, snake-like neck and its straight, pointed bill (rather than hooked) distinguishes it from various cormorants, which are bulkier. Herons have much longer legs.";
+			distinctive = "<li>Long kinked neck</li><li>Long pointed bill</li>";
+			family = Anhingidae;
+			genus = Anhinga;
+			habitat = "The Darter usually inhabits terrestrial wetlands and occasionally occurs in sheltered coastal waters. It feeds in areas of smooth, open water where there are nearby tree trunks, branches, stumps or posts where it can roost and dry its wings. Most often seen inland, around permanent and temporary waters.";
+			identifier = "101 Australasian Darter";
+			"identifyingCharacteristics" = "The Australasian Darter is a large, slim waterbird with a long, kinked, snake-like neck and a sharp pointed bill. Males are dark brownish-black with glossy-black upperwings, streaked and spotted white, silver-grey and brown. There is a pale-brown stripe extending from the base of the bill along the side of the upper neck. There are irregular, white and dark-brown patches on the blackish underparts. Females and immatures are grey-brown above, with silver-grey and brown streaks and spots on the upperwings; pale grey to white below, with a white neck stripe (less distinct in young birds).";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAUDA.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Phalacrocoraciformes;
+			phylum = "Australasian Darter Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAUDA01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAUDA02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAUDA01.jpg";
+				},
+				{
+					credit = "Jennifer Sutfin";
+					filename = "imgAUDA02.jpg";
+				},
+				{
+					credit = "Jennifer Sutfin";
+					filename = "imgAUDA03.jpg";
+				},
+			);
+			species = novaehollandiae;
+			squareCropImage = (
+				{
+					filename = "thmAUDA.jpg";
+				},
+			);
+			taxonGroup = "Cormorants & Darter";
+			taxonSubgroup = Darter;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (H.Pollock)";
+					filename = "audAUPE01.mp3";
+				},
+				{
+					credit = "Young (H.Pollock)";
+					filename = "audAUPE02.mp3";
+				},
+				{
+					credit = "Adult, young (H.Pollock)";
+					filename = "audAUPE03.mp3";
+				},
+			);
+			biology = "Australian Pelicans often occur singly or in small flocks, but may congregate into flocks of thousands of birds. They forage by plunging the head below the water\U2019s surface to catch fish in the large, pouched bill, though they may also scavenge on land, taking all manner of small animals or scraps. They swim buoyantly, and are often seen loafing on mudbanks or logs in or beside the water. To take off from the water, Pelicans run along the surface, kicking both feet together, and the take-off is laborious with strong wing-beats, but once airborne they often glide, interspersed with occasional deep flapping. Flocks may fly in a V-formation, sometimes soaring to great heights.";
+			bite = "1.7m";
+			class = "http://www.birdlife.org.au/bird-profile/australian-pelican";
+			commonNames = (
+				"Australian Pelican",
+				"Spectacled Pelican",
+			);
+			diet = None;
+			distinctive = "<li>Large black-and-white bird</li><li>Huge, pouched bill</li><li>Elongated neck</li>";
+			family = Pelicanidae;
+			genus = Pelecanus;
+			habitat = "They inhabit a wide range of terrestrial, estuarine and marine wetlands, both permanent and ephemeral, and with wide variation in depth, salinity and turbidity, though large wetlands with extensive areas of open water are preferred.";
+			identifier = "106 Australian Pelican";
+			"identifyingCharacteristics" = "The head, neck and body of the Australian Pelican are mostly white, though the hindneck is greyish and there is a black, V-shaped band across the rump, and the tail is black. The upperwing is mostly black, with a conspicuous white panel; the underwing has black flight feathers and white coverts that have a narrow black bar, separated from the leading edge by a band of white. The bill is usually pink-yellow, but during the breeding season may be pink-blue and orange. Pelicans have a conspicuous eye-ring, orange-yellow in the breeding season and pale yellow at other times. The legs and feet are dark blue-grey. The sexes are similar, though the female is smaller.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAUPE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Australian Pelican Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAUPE01.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgAUPE01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgAUPE02.jpg";
+				},
+			);
+			species = conspicillatus;
+			squareCropImage = (
+				{
+					filename = "thmAUPE.jpg";
+				},
+			);
+			taxonGroup = Pelican;
+			taxonSubgroup = Pelican;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (H.Crouch)";
+					filename = "audRKDO01.mp3";
+				},
+				{
+					credit = "Adult in flight (R.Buckingham)";
+					filename = "audRKDO02.mp3";
+				},
+			);
+			biology = "Red-kneed Dotterels usually forage by gleaning or probing the soft mud at the edges of shallow wetlands, often in the company other shorebirds, but rarely close to them. They may form small, loose flocks, but are more usually seen singly or in pairs. They stand motionless for long periods before bobbing the head and then dashing forward. They often swim, and fly swiftly, with shallow, fluttering and jerky wing-beats, often twisting and turning rapidly. Though usually silent, they may call in flight; the usual call is a sharp, double wit, given in alarm or as a contact call.";
+			bite = 18cm;
+			class = "http://www.birdlife.org.au/bird-profile/red-kneed-dotterel";
+			commonNames = (
+				"Red-kneed Dotterel",
+				"",
+			);
+			diet = "The <b>Black-fronted Plover</b> has a black line through the eye, a narrow black breast-band and uniform pinkish or orange legs.";
+			distinctive = "<li>Large head with high forehead</li><li>Dark cap that extends well below eye</li><li>Chestnut flanks</li><li>Two-tone legs: upper leg and knee, reddish pink; lower leg, dark blue-grey</li>";
+			family = Charadriidae;
+			genus = Erythrogonys;
+			habitat = "The Red-kneed Dotterel usually inhabits the exposed, soft, muddy margins of shallow, terrestrial freshwater wetlands, often among scattered fringing or emergent vegetation, such as tussocks or canegrass. It seldom occurs at brackish or saline wetlands.";
+			identifier = "132 Red-kneed Dotterel";
+			"identifyingCharacteristics" = "A plump, medium-sized wader, the sexes of the Red-kneed Dotterel are indistinguishable. The head has a black cap which extends below the eye and back to the hindneck; the chin and the throat contrast white. The back of the cap extends down the sides of the neck, forming a collar. The mantle and back are dark brown, while the lower back, rump and tail are white with a brown stripe through the centre. The dark collar joins a broad black breast-band which continues onto the flanks, forming a stripe that grades to chestnut. There is a conspicuous white stripe separating the breast band/flank stripe and the wing. The rest of the underparts are white except the under tail-coverts which are brownish-black and buffy-white. The upperwing has blackish primaries, a white trailing edge and is otherwise dark brown, as the back; the underwing is mostly white with a dark leading edge, dark primaries and coverts and a white trailing edge. The bill is pinkish with a blackish tip and base; the legs are two-tone, being reddish-pink on the upper leg and knee, and dark blue-grey below.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapRKDO.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Red-kneed Dotterel Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illRKDO01.jpg";
+				},
+				{
+					credit = "Jon Irvine";
+					filename = "imgRKDO01.jpg";
+				},
+			);
+			species = cinctus;
+			squareCropImage = (
+				{
+					filename = "thmRKDO.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Plover & Dotterels";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults (L.Jackson)";
+					filename = "audMDLA01.mp3";
+				},
+				{
+					credit = "Flying (F.van Gessel)";
+					filename = "audMDLA02.mp3";
+				},
+				{
+					credit = "Adults, chicks (N.Robinson)";
+					filename = "audMDLA03.mp3";
+				},
+			);
+			biology = "Wary and alert, Masked Lapwings are usually seen in pairs or small groups, though they occasionally form larger congregations. They walk slowly with the head and neck extended forward and the shoulders hunched. They forage by picking small invertebrates from the ground or just below the surface as they walk. They fly with clipped wing-beats. During breeding season they are renowned for aggressively diving at intruders when chicks are present. Lapwings are very noisy, giving a strident, shrill, stuttering <em>keer-kik-ki-ki</em> call, often at night.";
+			bite = 34cm;
+			class = "http://www.birdlife.org.au/bird-profile/masked-lapwing";
+			commonNames = (
+				"Masked Lapwing",
+				"Spur-winged, Wattled or Masked Plover; Wattled Sandpiper; Alarmbird",
+			);
+			diet = "The <b>Banded Lapwing</b> has a blackish breast band and a white eye-stripe, and in flight it has a bold diagonal white bar across the upperwing.";
+			distinctive = "<li>Black hood</li><li>Grey-brown upperparts and white underparts</li><li>Yellow facial mask with wattles</li><li>Yellow bill</li>";
+			family = Charadriidae;
+			genus = Vanellus;
+			habitat = "Masked Lapwings occur in a wide variety of open habitats, usually with short grass and often near water. They often inhabit the margins of permanent or ephemeral wetlands (terrestrial, estuarine and occasionally marine), and occur widely in modified habitats, including farmland and grassed areas in built-up areas. ";
+			identifier = "133 Masked Lapwing";
+			"identifyingCharacteristics" = "Although the sexes of the Masked Lapwing are similar and there is no seasonal variation, there is some regional variation. In eastern and southern Australia, the crown and nape are black, and the cheeks, chin and throat are white; the nape and hindneck are black, the mantle and back are pale grey-brown, the rump is white and the tail is black with a narrow white tip. The underparts are white except for a blackish collar that extends from the sides of the neck onto the sides of the breast. The upperwing is plain pale grey-brown with black flight feathers, and the underwing is white with black flight feathers. The bill is yellow, and the forehead and forecrown are covered by bright-yellow skin which forms wattles that extend down beyond the base of the bill. The legs are dull reddish. The wing-spurs are long and yellow. In northern Australia, the Masked Lapwing is similar, but has a white hindneck separating the black of the nape from the pale grey-brown of the mantle, and lacks the blackish collar on the sides of the neck and breast.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapMDLA.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Masked Lapwing Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illMDLA01.jpg";
+				},
+			);
+			species = miles;
+			squareCropImage = (
+				{
+					filename = "thmMDLA.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = Lapwing;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (F.van Gessel)";
+					filename = "audRCPL01.mp3";
+				},
+			);
+			biology = "Gregarious, Red-capped Plovers occasionally form congregations of hundreds of birds but are more usually seen in smaller flocks; they often associate with other shorebirds. They forage on dry, open substrates by pausing to peck at small invertebrates on the surface between rapid dashes. The head is often bobbed when the bird is disturbed. Their flight is rapid, with flocks often changing direction abruptly. Their usual call is a quiet <em>chip</em>.";
+			bite = 15cm;
+			class = "http://www.birdlife.org.au/bird-profile/red-capped-plover";
+			commonNames = (
+				"Red-capped Plover",
+				"Red-capped Dotterel, Red-necked Plover; Sand-lark",
+			);
+			diet = "The <b>Double-banded Plover</b> is larger with a proportionately longer bill and shorter legs; it is darker and browner above and has a longer, more prominent supercilium; it also lacks the bright white on the forehead and underparts. The <b>Lesser Sand Plover</b> is a larger bird with a thicker, stubbier bill, darker, browner upperparts and larger, diffuse brown patches at the sides of the breast.";
+			distinctive = "<li>Rufous cap in breeding plumage</li><li>Gleaming white underparts</li>";
+			family = Charadriidae;
+			genus = Charadrius;
+			habitat = "Red-capped Plovers inhabit the margins of a wide variety terrestrial, estuarine and littoral wetlands, both in coastal areas and far inland, especially in areas with bare, open stretches of mud, silt or sand.";
+			identifier = "143 Red-capped Plover";
+			"identifyingCharacteristics" = "The sexes of the Red-capped Plover differ slightly. The male has a distinctive white forehead with a black margin, separating it from the rufous crown and ear-coverts; there is a black loral stripe; the rest of the face is white. The nape and neck are rufous (contiguous with the crown) with a black border; the rest of the upperparts are pale grey-brown, though the tail is blackish with white sides. The underparts are brilliant white with black patches extending from the sides of the neck onto the sides of the breast. The female differs by having a pale-rufous or light-brown loral stripe which extends behind the eye onto the ear coverts, paler rufous on the head and light-rufous or greyish patches at the sides of the breast. On both sexes the bill is black, and the legs and feet are dark greyish-black.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapRCPL.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Red-capped Plover Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illRCPL01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgRCPL01.jpg";
+				},
+			);
+			species = ruficapillus;
+			squareCropImage = (
+				{
+					filename = "thmRCPL.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Plover & Dotterels";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "'pit pit' calls (V.Powys)";
+					filename = "audBFDO01.mp3";
+				},
+				{
+					credit = "Boundary dispute (E.Slater)";
+					filename = "audBFDO02.mp3";
+				},
+			);
+			biology = "Usually seen singly or in pairs, the Black-fronted Dotterel has a distinctive, horizontal stance, and often dashes forward rapidly, then stops abruptly, bobs its head, and dashes on a little further. They forage by pecking at small invertebrates in soft mud or from the surface of the ground, using the \U2018walk-stop-peck\U2019 or \U2018run-stop-peck\U2019 feeding method. When disturbed, may turn its back towards the intruder and running away, stopping every so often to bob its head, or it may flush, giving a sharp <em>pip</em> as it flies away. In flight, they have deep, jerky, flicking wing-beats, pausing briefly between beats.";
+			bite = 17cm;
+			class = "http://www.birdlife.org.au/bird-profile/black-fronted-dotterel";
+			commonNames = (
+				"Black-fronted Dotterel",
+				"Black-fronted Plover; Guttersnipe",
+			);
+			diet = "The <b>Red-kneed Dotterel</b> is plumper, has a back cap and a broad breast-band which extends onto the flanks, a conspicuous white stripe that separates the brown wings from the black/chestnut flanks; and the legs are two tone, being pinkish above and on the knee and blackish below.";
+			distinctive = "<li>Red eye-ring</li><li>Bright-red bill with a black tip</li><li>Broad black eye-stripe topped by a white supercilium</li><li>Dark chestnut scapulars</li><li>White underparts except for a dark, \U2018Y\U2019-shaped breast-band</li>";
+			family = Charadriidae;
+			genus = Elseyornis;
+			habitat = "They inhabit the muddy margins of shallow, terrestrial wetlands, especially those with fresh water and muddy bottoms, including farm dams, bores and drainage channels. They also often occur on open, gravelly ground, such as dry creek beds.";
+			identifier = "144 Black-fronted Dotterel";
+			"identifyingCharacteristics" = "A small, slender plover with a horizontal stance, the Black-fronted Plover has a dark eye-stripe and a \U2018Y\U2019-shaped breast-band. The sexes are similar. The crown is brown, bordered below by a white supercilium that extends back onto the nape; there is a dark eye-stripe that extends onto the hindneck; and the chin and throat are white. There is a black collar which extends from the hindneck, down the sides of the neck, forming a narrow collar. The scapulars are chestnut, and the mantle and back are light brown with darker streaks; the rump and upper tail-coverts are dark brown, and the uppertail is brownish-black with white edges. The underparts are white except for a prominent black, \U2018Y\U2019-shaped breast-band, which joins the back collar. On the upperwing, the innerwing is dark brown with a white wing stripe; the outerwing is black-brown; below, the underwing is mostly white with a dark leading edge and dark flight feathers. The bill is bright red with a black tip; there is a red eye-ring; and the legs and feet are pinkish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBFDO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Black-fronted Dotterel Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBFDO01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgBFDO01.jpg";
+				},
+			);
+			species = melanops;
+			squareCropImage = (
+				{
+					filename = "thmBFDO.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Plover & Dotterels";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (H.Crouch)";
+					filename = "audBWST01.mp3";
+				},
+				{
+					credit = "Immatures piping (F.van Gessel)";
+					filename = "audBWST02.mp3";
+				},
+			);
+			biology = "The Black-winged Stilt often associate with other waders. They strut gracefully through the shallows, and usually feed by pecking daintily at invertebrates on the water\U2019s surface or on the surface of the substrate. These stilts fly swiftly with strong, rapid wing-beats, and with the neck hunched and long legs trailing behind. They call often, giving a distinctively dog-like yap.";
+			bite = 37cm;
+			class = "http://www.birdlife.org.au/bird-profile/black-winged-stilt";
+			commonNames = (
+				"Black-winged Stilt",
+				"Pied, White-headed, White-necked or Black-throated Stilt; Stilt-bird or Stilt-plover; Longshanks; Dogbird",
+			);
+			diet = "The <b>Banded Stilt</b> has a totally white head and neck, and, in breeding plumage has a rich-chestnut band across its chest. It also has shorter legs. The <b>Red-necked Avocet</b> can be distinguished by its russet-coloured head and neck, black-and-white wings and a distinctively up-turned bill. ";
+			distinctive = "<li>Black nape and hindneck</li><li>Long, fine bill</li><li>Extremely long and slender legs</li><li>Black spot behind eye on immature birds</li>";
+			family = Recurvirostridae;
+			genus = Himantopus;
+			habitat = "Recorded on most types of wetlands, though most usually recorded in shallow freshwater wetlands, especially those with short emergent vegetation. They are also often found on saline lakes and saltpans and occasionally in sheltered coastal intertidal habitats.";
+			identifier = "146 Black-winged Stilt";
+			"identifyingCharacteristics" = "A medium-sized shorebird, the Black-winged Stilt has mostly white plumage, except for a black nape and hindneck, and black wings. The long, slender bill is straight and black, and the legs are extremely long and slender, and are pink. Juvenile birds are similar, except the wings appear a faded version of those of the adult, and there is a diffuse black patch on the forehead, the forecrown and around the eye.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBWST.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Black-winged Stilt Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBWST01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgBWST01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgBWST02.jpg";
+				},
+			);
+			species = himantopus;
+			squareCropImage = (
+				{
+					filename = "thmBWST.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Avocet & Stilts";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Individuals, wing-beats (R.Swaby)";
+					filename = "audBAST01.mp3";
+				},
+			);
+			biology = "Sometimes form immense flocks, occasionally with other waders, especially Black-winged Stilts and Red-necked Avocets, but more usually in single-species congregations. In flight the wing-beats are quick and flickering. They often wade in the shallows, or swim in deeper water. Banded Stilts forage by pecking at invertebrates on the water\U2019s surface, and seldom probe the substrate. They give a soft barking call.";
+			bite = 39cm;
+			class = "http://www.birdlife.org.au/bird-profile/banded-stilt";
+			commonNames = (
+				"Banded Stilt",
+				"Bishop or Rottnest Snipe",
+			);
+			diet = "The <b>Black-winged Stilt</b> has a black nape and hindneck, and wholly white underparts; it also has much longer legs. The <b>Red-necked Avocet</b> can be distinguished by its russet-coloured head and neck, its white underparts and a distinctively up-turned bill.";
+			distinctive = "<li>Chestnut band across breast</li><li>White head and neck</li>";
+			family = Recurvirostridae;
+			genus = Cladorhynchus;
+			habitat = "Typically found on saline lakes and saltpans, especially ephemeral inland saltlakes, but also occur in a variety of freshwater and sheltered coastal intertidal zones.";
+			identifier = "147 Banded Stilt";
+			"identifyingCharacteristics" = "The Banded Stilt has a white head, neck and upperbody. There is a broad chestnut band across the lower breast and belly, but otherwise the upperparts are white. The upperwing is black with a white trailing edge, while the underwing is white with a black leading edge and outerwing. The long, straight bill is black, and the legs and feet are pinkish red.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBAST.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Banded Stilt Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBAST01.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgBAST01.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgBAST02.jpg";
+				},
+			);
+			species = leucocephalus;
+			squareCropImage = (
+				{
+					filename = "thmBAST.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Avocet & Stilts";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Feeding flock (R.Swaby)";
+					filename = "audRNAV01.mp3";
+				},
+				{
+					credit = "Protecting chicks (R.Swaby)";
+					filename = "audRNAV02.mp3";
+				},
+			);
+			biology = "Red-necked Avocets usually forage in shallow water, where they sweep their bills back and forth in a wide arc through the water or soft mud while swimming or wading. They may congregate into large flocks, sometimes in association with Banded Stilts, and less often with Black-winged Stilts. In flight, their legs trail beyond the end of the tail. They give loud barking and wheezing calls.";
+			bite = 44cm;
+			class = "http://www.birdlife.org.au/bird-profile/red-necked-avocet";
+			commonNames = (
+				"Red-necked Avocet",
+				"Avocet; Yelper; Cobbler; Trumpeter",
+			);
+			diet = "The <b>Black-winged Stilt</b> has a white head and a black nape and hindneck; it also has a long, straight bill. It lacks the distinctive wing pattern of an Avocet. The <b>Banded Stilt</b> has a totally white head and neck, and, in breeding plumage has a rich-chestnut band across its chest. It also has a long, straight bill and lacks the distinctive wing pattern of an Avocet.";
+			distinctive = "<li>Upturned bill</li><li>Chestnut head and neck</li><li>Bluish legs and feet</li>";
+			family = Recurvirostridae;
+			genus = Recurvirostra;
+			habitat = "Inhabit various wetlands, though prefer shallow ephemeral inland wetlands with saline water. They are also sometimes recorded in sheltered intertidal habitats and artificial wetlands, as well as occasionally at freshwater wetlands. ";
+			identifier = "148 Red-necked Avocet";
+			"identifyingCharacteristics" = "The Red-necked Avocet has a chestnut-coloured head and neck. The rest of the body is white except for two parallel black lines along the saddle. The upperwing is white with black wingtips and a broad black band across the inner wing-coverts, and the underwing is white with black wingtips. The distinctive bill is slender, black and upturned, and the legs and feet are bluish. ";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapRNAV.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Red-necked Avocet Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illRNAV01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgRNAV01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgRNAV02.jpg";
+				},
+			);
+			species = novaehollandiae;
+			squareCropImage = (
+				{
+					filename = "thmRNAV.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Avocet & Stilts";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Calls, flushed (D.Stewart)";
+					filename = "audWOSA01.mp3";
+				},
+				{
+					credit = "Adult (F.van Gessel)";
+					filename = "audWOSA02.mp3";
+				},
+			);
+			biology = "Wood Sandpipers usually occur singly or in small flocks, and often associate with other shorebirds. They forage by probing the mud or picking prey items from the surface. When walking in shallow water they have a high-stepping gait They are generally wary, and when nervous the head is held high and it and the body bobbed up and down. When they are flushed, they fly strongly and with great agility, flying high and quickly with rapid, clipped wingbeats before circling and gliding back to the ground. The most common calls are a whistled <em>chiff-iff-iff</em> and a sharp chip in alarm.";
+			bite = 21cm;
+			class = "http://www.birdlife.org.au/bird-profile/wood-sandpiper";
+			commonNames = (
+				"Wood Sandpiper",
+				"",
+			);
+			diet = "None. The combination of small size, slender build, long, greenish or yellowish legs, pale supercilium, spotted upperparts and square white rump above a tail with dark barring separates the Wood Sandpiper from other shorebirds.";
+			distinctive = "<li>Chequered appearance to upperparts</li><li>White rump with barred tail</li><li>Long yellowish legs</li><li>Short, straight bill</li>";
+			family = Scolopacidae;
+			genus = Tringa;
+			habitat = "Wood Sandpipers usually inhabit well-vegetated, shallow freshwater wetlands, especially those with emergent aquatic plants or grass, with taller fringing vegetation, such as reeds and rushes, shrubs and trees, and there is often fallen timber. They also sometimes occur in inundated grasslands. They seldom occur in brackish wetlands, and do not occur on tidal mudflats.";
+			identifier = "154 Wood Sandpiper";
+			"identifyingCharacteristics" = "The Wood Sandpiper is a small, slim shorebird with a short straight bill and long legs. In breeding plumage the crown is blackish brown with white streaks, with a white supercilium, and the cheeks have grey streaks. The upperbody is largely blackish brown with conspicuous barring and spotting which creates a chequered appearance, while the rump is white and the uppertail is white with narrow dark barring. The underparts are mostly white, with heavy dark streaking on the neck and sides of the breast and dark-brown barring on the flanks. On the upperwings, the flight feathers are bark brown with the remainder appearing chequered, as the upperbody; and the underwings are white with palegrey-brown on the lining. The bill is black with a yellowish base; the legs and feet are greenish or yellowish. In non-breeding plumage, largely similar, but the upperparts are more uniform, and less distinct, and the breast with a grey wash.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapWOSA.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Wood Sandpiper Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illWOSA01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgWOSA01.jpg";
+				},
+			);
+			species = glareola;
+			squareCropImage = (
+				{
+					filename = "thmWOSA.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Large Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (F.van Gessel)";
+					filename = "audCOGR01.mp3";
+				},
+				{
+					credit = "Adult (H.Crouch)";
+					filename = "audCOGR02.mp3";
+				},
+			);
+			biology = "Common Greenshanks are generally seen singly or in small groups, though larger flocks occasionally form. They are wary and readily flushed, with the head bobbed in alarm before the bird flushes amid loud <em>tchu, tchu, tchu</em> calls. Their flight is rapid and zig-zagged. They often associate with other shorebirds, and walk briskly along the shoreline, picking at food items on the surface or probing a little way into the substrate. ";
+			bite = 33cm;
+			class = "http://www.birdlife.org.au/bird-profile/common-greenshank";
+			commonNames = (
+				"Common Greenshank",
+				"Greater Greenshank; Large Tringrine Sandpiper; Cinereous Godwit",
+			);
+			diet = "They are most likely to be confused with the <b>Marsh Sandpiper</b>, which can be distinguished by its smaller size and proportions (more slender, with a smaller head, slimmer neck, and a straight, needle-like bill; and proportionally longer legs). Its supercilium is more distinct behind the eye, the lores are paler, and the underparts are paler.";
+			distinctive = "<li>Thick, slightly upturned bill</li><li>White wedge on the back and upper tail-coverts</li><li>Streaked appearance</li><li>Long greenish-grey legs</li><li>Distinct 3-note call, <em>tchu, tchu, tchu</em></li>";
+			family = Scolopacidae;
+			genus = Tringa;
+			habitat = "Common Greenshanks inhabit various terrestrial wetlands, such as lakes, swamps, billabongs and the like, where there are muddy edges, and sheltered coastal habitats, including bays, estuaries and harbours, especially where there are intertidal mudflats or sandflats.";
+			identifier = "158 Common Greenshank";
+			"identifyingCharacteristics" = "A large, heavily built shorebird, the Common Greenshank has long legs and a slightly upturned bill. The sexes are alike, and there is some seasonal variation. In breeding plumage, the head and neck are white with heavy black streaking with a dark loral stripe and an indistinct whitish supercilium. The mantle and scapulars are spotted and streaked brownish-grey, black and white, imparting a lined effect. The back and upper tail-coverts have a large white wedge. The uppertail is white with dark barring. The underparts are white with fine black streaks on the chin and throat, heavier streaks on the neck and bold black chevrons on the breast and flanks. The upperwing is brownish-grey with white fringes to the feathers; and the underwing is white with faint brown barring on the coverts. The bill is greyish, grading to black at the tip, and the legs and feet are greyish green or yellowish. In non-breeding plumage, they are generally paler with less-bold markings and whiter underparts with no chevrons.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapCOGR.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Common Greenshank Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illCOGR01.jpg";
+				},
+			);
+			species = nebularia;
+			squareCropImage = (
+				{
+					filename = "thmCOGR.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Large Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Alarm, contact calls (F.van Gessel)";
+					filename = "audMASA01.mp3";
+				},
+				{
+					credit = "Adults (R.Swaby)";
+					filename = "audMASA02.mp3";
+				},
+				{
+					credit = "Flight calls (R.Swaby)";
+					filename = "audMASA03.mp3";
+				},
+			);
+			biology = "They occur in small or large flocks, often associating with other shorebirds. They are very wary and easily disturbed. Their stance is often erect, and the head is bobbed and the neck and wings stretched when the bird is alarmed. Their flight is rapid and agile. They feed in shallow water, walking briskly while pecking at small invertebrates on the water\U2019s surface or sweeping the bill from side to side. Their most common call is a loud, clear <em>teoo</em>.";
+			bite = 24cm;
+			class = "http://www.birdlife.org.au/bird-profile/marsh-sandpiper";
+			commonNames = (
+				"Marsh Sandpiper",
+				"",
+			);
+			diet = "The Marsh Sandpiper can be distinguished from the <b>Common Greenshank</b> by its smaller size and slander proportions, its straight, needle-like bill and proportionally longer legs. (The Greenshank is a larger, more robust bird.) Its supercilium is more distinct behind the eye, the lores are paler, and the underparts are paler. The <b>Wood Sandpiper</b> is slightly smaller than the Marsh Sandpiper, with much shorter bill and legs, generally darker brown upperparts with pale spots, a well-defined dark loral stripe and a white rump-patch that contrasts with the dark back.";
+			distinctive = "<li>Steep forehead</li><li>Fine, straight bill</li><li>Very long legs</li>";
+			family = Scolopacidae;
+			genus = Tringa;
+			habitat = "The Marsh Sandpiper inhabits a wide variety of permanent or ephemeral wetlands of varying salinity in coastal or inland regions. They are often recorded on intertidal mudflats, but are equally at home in saltponds, shallow freshwater lakes, the margins of reservoirs or on inundated floodplains.";
+			identifier = "159 Marsh Sandpiper";
+			"identifyingCharacteristics" = "A medium-sized, slender shorebird, the Marsh Sandpiper has long legs and a straight, needle-like bill. The sexes are similar, and there is marked seasonal variation. In breeding plumage, the head and neck are generally pale grey or white with heavy blackish streaking, with the finest on the face, making it appear pale, with a whitish supercilium that extends well behind the eye. The upperparts are mostly buffy-grey with sparse black streaks, blotches and bars, with a narrow white wedge extending up the back, with the broad base joining with white upper tail-coverts. The underbody is white with black streaks and spots on the foreneck and breast, and the flanks may have dark chevrons or narrow barring. The upperwing has blackish flight feathers and the remainder buffy-grey with black spots and blotches; and the underwing is mostly white, with a narrow dusky leading edge and a dusky wing-bar. The bill is brownish black, and the legs and feet yellowish green. In non-breeding plumage, the crown, nape and neck are paler grey, the lores, cheeks and supercilium are all white, the upperparts are more uniform, paler grey, and the underparts are entirely white. ";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapMASA.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Marsh Sandpiper Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illMASA01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgMASA01.jpg";
+				},
+			);
+			species = stagnatilis;
+			squareCropImage = (
+				{
+					filename = "thmMASA.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Large Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults (R.Swaby)";
+					filename = "audCUSA01.mp3";
+				},
+			);
+			biology = "Curlew Sandpipers often form large flocks, gathering at mudflats where they regularly associate with other shorebirds. They forage by pecking and probing in wet mud or in shallow water, sometimes wading belly deep with the head submerged. Their flight is swift and agile. The most common call, given in flight, is a trilling <em>chirrup</em>.";
+			bite = 20cm;
+			class = "http://www.birdlife.org.au/bird-profile/curlew-sandpiper";
+			commonNames = (
+				"Curlew Sandpiper",
+				"Pygmy Curlew, Curlew Stint; Redcrop",
+			);
+			diet = "In breeding plumage they may be mistaken for a <b>Red Knot</b>, which is distinguished by its larger size and its short, straight bill. ";
+			distinctive = "<li>Long down-curved bill</li>";
+			family = Scolopacidae;
+			genus = Calidris;
+			habitat = "They mostly inhabit intertidal mudflats in sheltered coastal environments, as well as near-coastal non-tidal wetlands, including saltworks and sewage treatment plants. They are also sometimes recorded inland around the muddy margins of permanent wetlands.";
+			identifier = "161 Curlew Sandpiper";
+			"identifyingCharacteristics" = "A small slim sandpiper, the Curlew Sandpiper has a long neck and a long, downcurved bill. The sexes are similar, and there is marked seasonal variation. In breeding plumage, the Sharp-tailed Sandpiper has a rich chestnut-red head and neck, sometimes with pale flecking, and with black streaks on the crown, a dusky loral stripe and white around the base of the bill. The upperparts are black with large chestnut spots and smaller greyish-white spots. The underbody is rich chestnut-red, like the head and neck, with narrow black barring on the flanks and belly; the vent and under tail-coverts are white with black bars, spots and arrowheads. The upperwing appears brownish grey with darker flight feathers and a prominent white wing-bar; the underwing is white with a small dark patch on the carpal joint. The non-breeding plumage differs by having the crown and neck pale brownish-grey with dark streaking, a white chin and throat, a dark loral stripe and white supercilium; the upperparts are pale brownish-grey with dark streaks, and the underbody is white with some fine dark streaks. The bill is black, as are the legs and feet.";
+			lcs = Vulnerable;
+			mapImage = (
+				{
+					filename = "mapCUSA.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Curlew Sandpiper Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illCUSA01.jpg";
+				},
+				{
+					credit = "Paul Wainwright";
+					filename = "imgCUSA01.jpg";
+				},
+			);
+			species = ferruginea;
+			squareCropImage = (
+				{
+					filename = "thmCUSA.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Small Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Small group (F.van Gessel)";
+					filename = "audRNST01.mp3";
+				},
+			);
+			biology = "They are gregarious when feeding or roosting, often forming large flocks and mixing with other shorebirds. When feeding they walk quickly, constantly and rapidly pecking at the substrate with the head hunched into the shoulders. Their flight is swift and direct, with shallow flickering wing-beats. Their usual flight call is often rendered as <em>chit</em>.";
+			bite = 14cm;
+			class = "http://www.birdlife.org.au/bird-profile/red-necked-stint";
+			commonNames = (
+				"Red-necked Stint",
+				"Rufous-necked or Eastern Little Stint; Red-necked, Little, Eastern Little or Least Sandpiper; Land Snipe",
+			);
+			diet = "The <b>Sanderling</b> is similar, but is a larger bird with a heavier bill, and has a distinctive black carpal patch. Red-necked Stints are easily confused with the <b>Little Stint</b>. In breeding plumage, the rufous parts of the plumage of the Little Stint have an orange tinge and dark streaks and spots (rather than a rufous tinge and unmarked), and the throat is white (not rufous); in non-breeding plumage they are most readily distinguished by their larger head, longer bill and longer legs (but this is only possible if the two species are available for comparison); otherwise, in non-breeding plumage, the Little Stint is darker and more brownish (greyer in Red-necked), and on some, a grey wash forms a complete pale breast band (only present on the sides of the breast in Red-necked).";
+			distinctive = "<li>Short black legs and bill</li><li>Dusky loral stripe</li>";
+			family = Scolopacidae;
+			genus = Calidris;
+			habitat = "Red-necked Stints often inhabit coastal habitats, especially sheltered environments with intertidal mudflats, especially bays, inlets, estuaries or lagoons, and artificial wetlands such as sewage ponds and saltworks. They also occur less often in shallow terrestrial wetlands, either perennial or ephemeral, freshwater, brackish or saline, often away from the coast.";
+			identifier = "162 Red-necked Stint";
+			"identifyingCharacteristics" = "The Red-necked Stint is a very small sandpiper with short black legs and a short black bill. The sexes are similar and there is seasonal variation in plumage. During breeding season, the head, neck and upper breast are pale rufous, with black streaking on the crown, nape and hindneck; there is a diffuse pale supercilium and a dusky loral stripe, and the chin and the area round the bill are white. The mantle, back and scapulars are mostly pale grey with prominent black streaking. The lower breast, abdomen and tail-coverts are white, with black streaks around the lower breast and flanks. The upperwing is marked with black diamond-shaped markings on a grey background with white and rufous edges to the feathers; in flight, this appears plain brownish-grey on the innerwing, contrasting with slightly darker flight feathers and primary coverts; and underwing is white with a mottled leading edge. The bill is black, and the legs and feet are also black. During the non-breeding season the rufous coloration of the plumage is lost, leaving it with similar patternation as the breeding plumage, but in tones of white, grey and black. ";
+			lcs = Vulnerable;
+			mapImage = (
+				{
+					filename = "mapRNST.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Red-necked Stint Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illRNST01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgRNST01.jpg";
+				},
+			);
+			species = ruficollis;
+			squareCropImage = (
+				{
+					filename = "thmRNST.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Small Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults (F.van Gessel)";
+					filename = "audSTSA01.mp3";
+				},
+				{
+					credit = "Disturbed flight (R.Buckingham)";
+					filename = "audSTSA02.mp3";
+				},
+			);
+			biology = "Sharp-tailed Sandpipers often occur in flocks of thousands of birds, but may also be seen in small parties, and they often intermingle with other shorebirds. They feed on wet or dry mud, making shallow probes to take small invertebrates while walking slowly and steadily across the mud with the head lowered. When disturbed, tail is lowered and the head raised and neck extended, though they may also crouch among low vegetation, and when flushed they quickly congregate into small groups. They give <em>pleep</em> notes or occasionally short trills.";
+			bite = 20cm;
+			class = "";
+			commonNames = (
+				"Sharp-tailed Sandpiper",
+				"Asiatic Pectoral, Siberian Pectoral or Brown-eared Sandpiper; Sharp-tailed Stint; Little Greenshank or Snipe; Sharpie",
+			);
+			diet = "The <b>Pectoral Sandpiper</b> can be distinguished by its distinctly dark-streaked breast that is sharply demarcated from the white belly, and a white, unstreaked belly. In addition, the crown is darker brown and coarsely streaked, lacking rufous coloration; darker, browner upperparts; and a bicoloured bill.";
+			distinctive = "<li>Overall brown/grey appearance</li><li>Dark chevrons on lower breast and flanks</li><li>Yellow-green legs</li>";
+			family = Scolopacidae;
+			genus = Calidris;
+			habitat = "Sharp-tailed Sandpipers often inhabit shallow, fresh or brackish wetlands with muddy margins and inundated or emergent sedges, grass, shrubs or other low vegetation; these habitats are frequently ephemeral and may be far from the coast. When ephemeral wetlands dry out, they may occupy coastal mudflats.";
+			identifier = "163 Sharp-tailed Sandpiper";
+			"identifyingCharacteristics" = "A small, pot-bellied sandpiper, the Sharp-tailed Sandpiper has a short neck and a slightly curved bill. In breeding plumage the crown is rufous with black streaks, there is a prominent white supercilium, a dark loral stripe and dark ear coverts (which may combine to give the effect of an eye-stripe), and the cheeks and throat are off-white with fine black streaks. The neck is brown with fine dark streaks, and the upperbody is mostly black with dense rufous, grey-brown and white streaks, with a white rump that has a broad, dark central stripe, and the tail is pale grey-brown with a blackish centre. The neck, breast and flanks are rufous-brown with heavy black spots and short streaks; the coloration of the upper breast grades to white on the lower breast and belly, both of which are marked with black chevrons, with finer streaks on the otherwise white vent and under tail-coverts. The upperwing has greyish flight feathers and greater coverts, separated by a narrow pale wingbar, with the remainder marked like the back; the underwing is white with grey flight feathers and greater coverts, and dark mottling along the leading edge. The bill is blackish with a paler base; the legs and feet are olive or yellowish-olive. In non-breeding plumage the Sharp-tailed Sandpiper is greyer above with a more contrasting head pattern, and less heavily marked below.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapSTSA.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illSTSA01.jpg";
+				},
+				{
+					credit = "Paul Wainwright";
+					filename = "imgSTSA01.jpg";
+				},
+			);
+			species = acuminata;
+			squareCropImage = (
+				{
+					filename = "thmSTSA.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = "Small Sandpipers";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Birds flushed (R.Buckingham)";
+					filename = "audLASN01.mp3";
+				},
+				{
+					credit = "Flushed (D.Stewart)";
+					filename = "audLASN02.mp3";
+				},
+			);
+			biology = "Latham\U2019s Snipe usually occur singly or in small loose groups, though they are occasionally recorded in large numbers. They are shy and wary, and due to their cryptic plumage are usually difficult to see. They are easily disturbed, and readily burst from cover with a loud krek and then they fly quickly with a twisting or zig-zagging flight before dropping back into cover. They forage by deeply probing soft mud with the bill in a rapid sewing-machine action.";
+			bite = 30cm;
+			class = "http://www.birdlife.org.au/bird-profile/lathams-snipe";
+			commonNames = (
+				"Latham's Snipe",
+				"Japanese, Australian or New Holland Snipe",
+			);
+			diet = "This is the only species of snipe likely to occur in eastern Australia. Two other species of <em>Gallinago</em> snipe are recorded in Western Australia \U2014 Pin-tailed and Swinhoe's Snipe \U2014 but these are virtually indistinguishable in the field where it is extremely difficult to obtain good views of the birds. Even the experts have difficulty telling them apart; see Volume 3 of <em>Handbook of Australian, New Zealand and Antarctic Birds</em> for more details.";
+			distinctive = "<li>Long straight bill</li><li>Buff stripes down the back</li><li>Black crown with a light median crown-stripe</li>";
+			family = Scolopacidae;
+			genus = Gallinago;
+			habitat = "They inhabit a wide range of permanent and ephemeral wetlands with dense or rank vegetation cover nearby. They prefer freshwater wetlands with fringing vegetation, but may occur on brackish or saline habitats while on migration.";
+			identifier = "168 Latham's Snipe";
+			"identifyingCharacteristics" = "A large snipe, Latham's Snipe has cryptic, buff-and-black plumage and a long, straight bill. The sexes are similar and there is little seasonal variation. The crown is black with a narrow buffy stripe down the middle; there is a broad cream supercilium above a narrow, dark eye-stripe, and there is a dark stripe across the cheek; the rest of the face is buffy, grading to whitish on the chin. The sides of the neck and hindneck are light brown with coarse black streaking. The upperparts are mainly black with a complex pattern of fine rufous-brown flecking and barring, and buff streaking, with bold buff stripes down the back, with a light rufous-brown lower back, rump and upper tail-coverts with dark barring and white spots; the tail is bright rufous with a black band and a white tip. The throat, foreneck and upper breast are buffy with dark streaking or mottling; the lower breast, flanks and belly are white with dark barring or chevrons on the flanks, grading to light brown with dark barring on the vent and under tail-coverts. The upperwing is has dark flight feathers, with the inner coverts light brown with a complex pattern of buff spots and black bars or chevrons; the underwing is dark grey with bold white barring. The bill is brown or olive-yellow at the base, grading to blackish on the distal third; the legs and feet are olive.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapLASN.jpg";
+				},
+			);
+			nativeStatus = "Intercontinental Migrant";
+			ncs = "";
+			order = Charadriiformes;
+			phylum = "Latham's Snipe Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illLASN01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illLASN02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgLASN01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgLASN02.jpg";
+				},
+			);
+			species = hardwickii;
+			squareCropImage = (
+				{
+					filename = "thmLASN.jpg";
+				},
+			);
+			taxonGroup = "Migratory Shorebirds";
+			taxonSubgroup = Snipe;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = ();
+			biology = "The Australian Painted Snipe is a highly secretive, cryptic species. When disturbed, they either freeze after bowing forwards to conceal its white front or flush silently from cover, flying low and rail-like on bowed wings that are flapped slowly and erratically (usually landing less than 50 metres away). They feed by probing soft mud and shallow water. The body is bobbed downwards when walking, but the head held still. Highly nomadic and opportunistic. ";
+			bite = "22-30cm";
+			class = "http://www.birdlife.org.au/bird-profile/australian-painted-snipe";
+			commonNames = (
+				"Australian Painted Snipe",
+				"Painted Snipe, APS",
+			);
+			diet = "The <b>Latham&#039;s</b> Snipe can be distinguished by a distinctive head pattern featuring a darl loral stripe and a pale supercilium, a pale double-\U2018V\U2019 on the upperparts, pale-brownish foreneck and breast with dark streaks, and dark barring on the flanks; its bill is a different shape, being noticeably straight without a bulbous tip. In flight it zig-zags constantly. ";
+			distinctive = "<li>White \U201charness\U201d extending down to back</li><li>Comma-shaped marking around eye</li><li>White lower breast</li>";
+			family = Rostratulidae;
+			genus = Rostrarula;
+			habitat = "Shallow, freshwater wetlands with exposed wet mud, dense low fringing vegetation, sedges, or rank grass. However, in periods of high rainfall they have been observed inhabiting a diverse range of wetlands, from saltmarsh to storm-water drains.";
+			identifier = "170 Australian Painted Snipe";
+			"identifyingCharacteristics" = "The female Australian Painted Snipe has the head, neck and upper breast of the adult female are dark brown, with a pale ring around the eye, extending behind the eye in a \U2018comma\U2019 shape, and pale stripe on the crown. The nape is chestnut. The rest of the upperparts are metallic olive in colour and finely barred with black, bronze and chestnut. The upper breast is bordered by a white stripe which runs in a \U2018V\U2019 along the sides of the breast and over the shoulders, separating the brown of the head and neck from the rest of the upperparts. The rest of the underbody is white. The upperwings are metallic olive in colour and finely barred with black, bronze and chestnut, and the underwings are mostly light grey, with a broad white band through the centre. The bill is pale grey and the legs and feet are blue-green.</p><br /><p>The adult male Australian Painted Snipe is smaller and duller than the female. The head, neck and chest is streaked grey-brown, with buff stripes on the back. The wings are buff and brown with cream spotting and black marbling. Juveniles are similar to males, but have a less defined white \U201charness\U201d.";
+			lcs = Endangered;
+			mapImage = (
+				{
+					filename = "mapAPSN.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = Vulnerable;
+			order = Gruiformes;
+			phylum = "Australian Painted Snipe Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAPSN01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAPSN02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAPSN01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAPSN02.jpg";
+				},
+			);
+			species = hardwickii;
+			squareCropImage = (
+				{
+					filename = "thmAPSN.jpg";
+				},
+			);
+			taxonGroup = "Resident Shorebirds";
+			taxonSubgroup = "Painted Snipe";
+			wcs = Endangered;
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult pair, captive (H.Pollock)";
+					filename = "audBROL01.mp3";
+				},
+				{
+					credit = "Birds taking flight (R.Buckingham)";
+					filename = "audBROL02.mp3";
+				},
+				{
+					credit = "Group (H.Pollock)";
+					filename = "audBROL03.mp3";
+				},
+				{
+					credit = "Adult at nest (H.Pollock)";
+					filename = "audBROL04.mp3";
+				},
+				{
+					credit = "Newly hatched chicks (H.Pollock)";
+					filename = "audBROL05.mp3";
+				},
+			);
+			biology = "Walk with a slow and deliberate gait. When courting, pairs or flocks perform elaborate dances, with birds jumping up and down, and jerking the head up and backwards while half-spreading wings, accompanied by a bugling call. Fly with slow, purposeful wingbeats, the legs stretched out the back and the neck extended, but sagging slightly in the middle. ";
+			bite = "1.5m";
+			class = "http://www.birdlife.org.au/bird-profile/brolga";
+			commonNames = (
+				Brolga,
+				"Australian Crane, Native Companion",
+			);
+			diet = "The <b>Sarus Crane</b> may be distinguished by the larger area of red on the head, its dark-pink legs, its lack of a dewlap and grey secondaries visible in flight (black in Brolga).";
+			distinctive = "<li>Bare, red skin on head</li><li>Small, fleshy dewlap</li>";
+			family = Gruidae;
+			genus = Grus;
+			habitat = "In northern Australia, they usually inhabit coastal and subcoastal wetlands during the dry season, and during the Wet, occur in lush grasslands and associated shallow wetlands. In southern Australia, recorded in shallow freshwater swamps and meadows between July and December (breeding season), and then moving to deep, permanent freshwater marshes and stubble crops for the rest of the year.";
+			identifier = "177 Brolga";
+			"identifyingCharacteristics" = "The Brolga is a large, light-grey crane with conspicuous red skin on its head, extending from the nape to the upper throat. This bare skin forms a small dewlap that hangs down from the chin and upper throat. The rest of the plumage is light blue-grey except for the outer wing, which is black (and only visible in flight). The bill is olive-grey and the legs and feet are blackish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBROL.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Gruiformes;
+			phylum = "Brolga Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBROL01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgBROL01.jpg";
+				},
+			);
+			species = rubicunda;
+			squareCropImage = (
+				{
+					filename = "thmBROL.jpg";
+				},
+			);
+			taxonGroup = "Crane & Stork";
+			taxonSubgroup = Crane;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Birds put to flight (A.Griffin)";
+					filename = "audGLIB01.mp3";
+				},
+				{
+					credit = "Small group (unknown)";
+					filename = "audGLIB02.mp3";
+				},
+				{
+					credit = "Adult, chicks (R.Buckingham)";
+					filename = "audGLIB03.mp3";
+				},
+			);
+			biology = "Glossy Ibis walk sedately, probing for food in shallow water or mud. They fly with rapid wing-beats, alternating with long glides; in flight, flocks often fly in long lines. They are sometimes seen feeding in the company of other species of ibis. Mainly silent.";
+			bite = 54cm;
+			class = "http://www.birdlife.org.au/bird-profile/glossy-ibis";
+			commonNames = (
+				"Glossy Ibis",
+				"Black Curlew",
+			);
+			diet = "Other species of ibis are predominantly black and white, with bare heads: the <b>Australian White Ibis</b> is white with a black head and neck; the <b>Straw-necked Ibis</b> is predominantly black above with mainly white underparts.";
+			distinctive = "<li>Feathered head</li><li>All-dark, glossy, iridescent plumage</li>";
+			family = Threskiornithidae;
+			genus = Piegadis;
+			habitat = "Most often inhabit terrestrial wetlands, especially shallow swamps away from the coast; also sometimes recorded in wet grasslands or sheltered marine habitats such as estuaries. ";
+			identifier = "178 Glossy Ibis";
+			"identifyingCharacteristics" = "A small, slender ibis, the Glossy Ibis has dark chestnut-brown plumage on the head, neck, body and wings which, in some lights, has a glossy, iridescent sheen. The long and down-curved bill is brownish, and the legs and feet are dark brown. In non-breeding plumage, the head and neck develop pale streaks.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapGLIB.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Glossy Ibis Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illGLIB01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgGLIB01.jpg";
+				},
+			);
+			species = falinellus;
+			squareCropImage = (
+				{
+					filename = "thmGLIB.jpg";
+				},
+			);
+			taxonGroup = "Ibis & Spoonbills";
+			taxonSubgroup = Ibis;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults, young (J.Hutchinson)";
+					filename = "audAWIB01.mp3";
+				},
+				{
+					credit = "Nestlings (R.Swaby)";
+					filename = "audAWIB02.mp3";
+				},
+			);
+			biology = "May be seen singly or in flocks, which are sometimes large, especially when congregating at a food source, such as a rubbish tip or farmland. Walk slowly and deliberately. Graceful flight characterized by measured wing-beats interspersed with glides; flocks often fly in \U2018V\U2019 formations or in long lines. They may give a honking call when disturbed, but usually silent. The Australian White Ibis usually feeds by probing the substrate with its long bill, or picking items from the surface.";
+			bite = 70cm;
+			class = "http://www.birdlife.org.au/bird-profile/australian-white-ibis";
+			commonNames = (
+				"Australian White Ibis",
+				"Sacred, Australian, White, Australian Sacred, Black-headed or Black-necked Ibis",
+			);
+			diet = "The <b>Straw-necked Ibis</b> is readily distinguished by its dark upperparts and breast; and the <b>Glossy Ibis</b> has no white plumage. Distinguished from the <b>Royal and Yellow-billed Spoonbills</b> by the distinctive shape of the bill.";
+			distinctive = "<li>Long, black, down-curved bill</li><li>Combination of black hood and mainly white plumage</li>";
+			family = Threskiornithidae;
+			genus = Threskiornis;
+			habitat = "Inhabit a wide variety of terrestrial wetlands as well as sheltered marine habitats, grasslands (including farmland) and, increasingly, built-up areas.";
+			identifier = "179 Australian White Ibis";
+			"identifyingCharacteristics" = "A plump-bodied ibis, the Australian White Ibis has a bare, black-skinned head and neck that contrast with its mainly white plumage. The tips of the primaries are black. On breeding birds there are some lacy black feathers which extend over the wingtips when the wings are folded, and there may be short white plumes projecting from the base of the neck. The bill is long, down-curved and black, and the legs and feet are blackish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAWIB.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Australian White Ibis Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAWIB01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgAWIB01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgAWIB02.jpg";
+				},
+			);
+			species = molucca;
+			squareCropImage = (
+				{
+					filename = "thmAWIB.jpg";
+				},
+			);
+			taxonGroup = "Ibis & Spoonbills";
+			taxonSubgroup = Ibis;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults in flight (E.Lindgren)";
+					filename = "audSNIB01.mp3";
+				},
+				{
+					credit = "Grunts (R.Buckingham)";
+					filename = "audSNIB02.mp3";
+				},
+			);
+			biology = "Often gregarious. Flocks are often seen foraging by probing the substrate with their down-curved bills, or flying in a \U2018V\U2019 formation with deep, steady wing-beats interspersed with long glides, or soaring gracefully on thermals. They walk slowly and deliberately, often with the body held roughly horizontal. Although usually silent, they may utter various croaks or grunts.";
+			bite = 67cm;
+			class = "http://www.birdlife.org.au/bird-profile/straw-necked-ibis";
+			commonNames = (
+				"Straw-necked Ibis",
+				"Dry-weather Bird, Farmers\U2019 Friend, Letter-bird",
+			);
+			diet = "The <b>Australian White Ibis</b> is easily distinguished by its mainly white plumage. The <b>Glossy Ibis</b> is much smaller and has dark underparts.";
+			distinctive = "<li>Long, down-curved bill</li><li>Distinctive black-and-white plumage</li><li>Yellowish, spiky plumes on neck</li>";
+			family = Threskiornithidae;
+			genus = Threskiornis;
+			habitat = "Inhabit grasslands, farmland (pasture and crops), and a range of shallow terrestrial wetlands. ";
+			identifier = "180 Straw-necked Ibis";
+			"identifyingCharacteristics" = "The Straw-necked Ibis has a bare, black head. Much of the plumage on the neck is white, but there is an extensive tract of yellowish plumes which hangs from the foreneck, and the lower hindneck is blackish with a glossy sheen. This dark, glossy plumage extends onto the rest of the upperparts except the rump and tail, which are white. The upper breast is also glossy blackish, but the remainder of the underparts are white. The upperwings are black, and the underwings are also mainly black, but with a white patch near the body.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapSNIB.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Straw-necked Ibis Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illSNIB01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgSNIB01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgSNIB02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgSNIB03.jpg";
+				},
+			);
+			species = spinicollis;
+			squareCropImage = (
+				{
+					filename = "thmSNIB.jpg";
+				},
+			);
+			taxonGroup = "Ibis & Spoonbills";
+			taxonSubgroup = Ibis;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Swaby)";
+					filename = "audROSP01.mp3";
+				},
+				{
+					credit = "Distant Calls (D.Stewart)";
+					filename = "audROSP02.mp3";
+				},
+			);
+			biology = "The Royal Spoonbill forages in shallow water by sweeping its bill back and forth in a jagged arc while walking forward slowly or running, and they sometimes probe or grab food by stabbing at it. They fly with their neck and legs extended and the bill held horizontally, with rapid wing-beats interspersed with glides. Usually silent, but may grunt and groan at the nest.";
+			bite = 77cm;
+			class = "http://www.birdlife.org.au/bird-profile/royal-spoonbill";
+			commonNames = (
+				"Royal Spoonbill",
+				"Black-billed Spoonbill",
+			);
+			diet = "The <b>Yellow-billed Spoonbill</b> has pale-yellow facial skin, bill and legs. ";
+			distinctive = "<li>Long, black spoon-shaped bill</li><li>Long black legs</li>";
+			family = Threskiornithidae;
+			genus = Platalea;
+			habitat = "Royal spoonbills inhabit shallow terrestrial wetlands, sheltered marine habitats (such as inlets with intertidal mudflats) and occasionally wet grasslands. They occur in fresh, brackish and saline wetlands, though apparently prefer fresh. They forage either in open water or among aquatic or emergent vegetation.";
+			identifier = "181 Royal Spoonbill";
+			"identifyingCharacteristics" = "The Royal Spoonbill is a large white, long-necked, long-legged waterbird with distinctive spoon-shaped bill. The plumage is entirely white, and during breeding season they may have a cluster of white plumes on its crown and a crescent of creamy-yellow across the lower neck and upper breast. The face is unfeathered, and the bare skin is black with a contrasting yellow patch above the eye and a small red patch on the forehead. The bill and legs are black. In non-breeding season, there is no crest or creamy crescent. The sexes are similar, but the female is smaller.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapROSP.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Royal Spoonbill Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illROSP01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illROSP02.jpg";
+				},
+				{
+					credit = "Glenn Ehmke";
+					filename = "imgROSP01.jpg";
+				},
+			);
+			species = regia;
+			squareCropImage = (
+				{
+					filename = "thmROSP.jpg";
+				},
+			);
+			taxonGroup = "Ibis & Spoonbills";
+			taxonSubgroup = Spoonbills;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (H.Crouch)";
+					filename = "audYBSP01.mp3";
+				},
+				{
+					credit = "Adults defending nest (R.Swaby)";
+					filename = "audYBSP02.mp3";
+				},
+				{
+					credit = "Colony (R.Swaby)";
+					filename = "audYBSP03.mp3";
+				},
+				{
+					credit = "Chicks (R.Swaby)";
+					filename = "audYBSP04.mp3";
+				},
+			);
+			biology = "Yellow-billed Spoonbills forage in shallow water by sweeping the spoon-shaped bill back and forth in an arc while slowly walking forwards. Their flight consists of regular wing-beats interspersed with short glides, with the bill held horizontally and the neck and legs extended. They are usually quiet, but may give a loud coughing hiss when at the nest.";
+			bite = 83cm;
+			class = "http://www.birdlife.org.au/bird-profile/yellow-billed-spoonbill";
+			commonNames = (
+				"Yellow-billed Spoonbill",
+				"Yellow-legged Spoonbill",
+			);
+			diet = "The <b>Royal Spoonbill</b> has black facial skin, bill and legs. ";
+			distinctive = "<li>Long, pale-yellow spoon-shaped bill</li><li>Long yellow legs</li>";
+			family = Threskiornithidae;
+			genus = Platalea;
+			habitat = "Yellow-billed Spoonbills usually inhabit shallow terrestrial wetlands, mainly fresh or brackish, in open water or among emergent vegetation. They are occasionally recorded in wet grasslands or sheltered marine habitats.";
+			identifier = "182 Yellow-billed Spoonbill";
+			"identifyingCharacteristics" = "The Yellow-billed Spoonbill is a large white, long-necked, long-legged waterbird with distinctive spoon-shaped bill. The plumage is entirely white, though during breeding season they may have a cluster of stiff, pale-yellow plumes on its lower neck and upper breast. The face is unfeathered, and the bare skin is pale yellow, sometimes with a faint bluish tinge. The bill and legs are pale yellow. In non-breeding season, there is no bluish tinge to the facial skin, and there are no plumes on the neck. The sexes are similar.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapYBSP.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Yellow-billed Spoonbill Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illYBSP01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illYBSP02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgYBSP01.jpg";
+				},
+			);
+			species = flavipes;
+			squareCropImage = (
+				{
+					filename = "thmYBSP.jpg";
+				},
+			);
+			taxonGroup = "Ibis & Spoonbills";
+			taxonSubgroup = Spoonbills;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Bill clattering (R.Swaby)";
+					filename = "audBNST01.mp3";
+				},
+				{
+					credit = "Captive young (M.Conway)";
+					filename = "audBNST02.mp3";
+				},
+			);
+			biology = "Forage by probing in shallow water or vegetation. Walk with long strides, and may run in pursuit of prey with its wings spread. Fly with slow, stiff flaps, sometimes interspersed with short glides, with the neck extended forward and the legs trailing at 45&deg;; they occasionally soar on thermals. The Black-necked Stork is mostly silent.";
+			bite = "1.4m";
+			class = "http://www.birdlife.org.au/bird-profile/black-necked-stork";
+			commonNames = (
+				"Black-necked Stork",
+				"Jabiru, Policemanbird",
+			);
+			diet = "The <b>Royal Spoonbill</b> has black facial skin, bill and legs. ";
+			distinctive = "<li>Massive black bill</li><li>Glossy black head and neck</li><li>Male has a brown eye, female a conspicuous yellow eye</li><li>Black-and-white wings</li>";
+			family = Ciconiidae;
+			genus = Ephippiorhynchus;
+			habitat = "The Black-necked Stork inhabits a variety of freshwater, estuarine and littoral wetlands, but is most usually found around areas of open, shallow water, especially where it has flooded grassland habitat, such as on floodplains, where there is short emergent vegetation. ";
+			identifier = "183 Black-necked Stork";
+			"identifyingCharacteristics" = "The Black-necked Stork inhabits a variety of freshwater, estuarine and littoral wetlands, but is most usually found around areas of open, shallow water, especially where it has flooded grassland habitat, such as on floodplains, where there is short emergent vegetation. ";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBNST.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Black-necked Stork Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBNST01.jpg";
+				},
+				{
+					credit = "Chris Purnell";
+					filename = "imgBNST01.jpg";
+				},
+				{
+					credit = "Chris Purnell";
+					filename = "imgBNST02.jpg";
+				},
+			);
+			species = asiaticus;
+			squareCropImage = (
+				{
+					filename = "thmBNST.jpg";
+				},
+			);
+			taxonGroup = "Crane & Stork";
+			taxonSubgroup = Stork;
+			wcs = "Near Threatened";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Swaby)";
+					filename = "audLIEG01.mp3";
+				},
+			);
+			biology = "Little Egrets may be seen solitarily or form small, loose flocks. When foraging in shallow water, they walk with a high-stepping gait, dashing erratically after small fish, seldom remaining still. They fly with steady flapping, sometimes interspersed with brief glides. They are usually silent, but occasionally give a croaking <em>kark</em> call.";
+			bite = 61cm;
+			class = "http://www.birdlife.org.au/bird-profile/little-egret";
+			commonNames = (
+				"Little Egret",
+				"Lesser or Spotless Egret",
+			);
+			diet = "The Little Egret is readily distinguished from its larger congeners by its more diminutive size. The <b>Eastern Great Egret</b> is much larger and has a proportionally longer neck. The <b>Intermediate Egret</b> is also larger and usually has a yellow bill; it also lacks yellow feet. The <b>Cattle Egret</b> is much stockier with a shorter, thicker neck, and its bill is never black; it often has orange or buff plumage. None of these congeners forages in such an energetic manner as the Little Egret.";
+			distinctive = "<li>All-white plumage</li><li>Black bill and legs</li><li>Yellow soles of feet</li>";
+			family = Ardeidae;
+			genus = Egretta;
+			habitat = "They occur in a wide variety of freshwater, brackish and saline environments, inhabiting terrestrial and estuarine wetlands, and also sheltered coasts, where they are mostly seen foraging in the shallows or on exposed banks. ";
+			identifier = "185 Little Egret";
+			"identifyingCharacteristics" = "The smallest of Australia\U2019s Egrets, the Little Egret has all-white plumage and a black bill. The sexes are similar, and there is only slight seasonal variation. The plumage of the Little Egret is entirely white. During the breeding season it develops long, fine plumes on the nape, breast and back. The eye is red (fading to yellow after courting), the bill is blackish, the lores are orange-yellow (though pink or red during courtship) and the legs and feet are dark grey with yellow soles. During non-breeding season, Little Egrets appear similar except they lack the plumes, and the lores are yellow.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapLIEG.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Little Egret Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illLIEG01.JPG";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgLIEG01.JPG";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgLIEG02.JPG";
+				},
+			);
+			species = garzetta;
+			squareCropImage = (
+				{
+					filename = "thmLIEG.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Egrets;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult feeding (R.Swaby)";
+					filename = "audINEG01.mp3";
+				},
+			);
+			biology = "Intermediate Egrets are usually seen singly or in loose flocks. They use a variety of methods to forage as they walk slowly and deliberately among aquatic vegetation, including stand-and-wait, gleaning, peering and foot-stirring. They fly gracefully with the head drawn back and the neck folded, and with the feet extending well beyond the tail. They are generally silent away from breeding colonies.";
+			bite = 63cm;
+			class = "http://www.birdlife.org.au/bird-profile/intermediate-egret";
+			commonNames = (
+				"Intermediate Egret",
+				"Plumed or Yellow-billed Egret",
+			);
+			diet = "The Intermediate Egret can be distinguished from the similar <b>Eastern Great Egret</b> by the proportions of the neck, being 1.5 times the length of the body in the Eastern Great Egret (about the same length of the body in the Intermediate), the flat profile of the head (slightly more rounded in Intermediate) and the distinct gape that extends beyond the eye (level with eye in Intermediate). The <b>Little Egret</b> is much smaller, has a black bill and erratic foraging behaviour. The <b>Cattle Egret</b> is short and stocky with a stout bill.";
+			distinctive = "<li>All-white plumage</li><li>The gape does not extend behind the eye</li>";
+			family = Ciconiidae;
+			genus = Ardea;
+			habitat = "They inhabit a variety of shallow terrestrial wetlands, especially those with dense aquatic and emergent vegetation, and also wet grasslands, but they are seldom recorded in saline habitats, such as estuarine or sheltered coastal habitats.";
+			identifier = "186 Intermediate Egret";
+			"identifyingCharacteristics" = "A slender white egret, the Intermediate Egret has bare parts which change colour depending on the season. The sexes are similar. The plumage of the Intermediate Egret is entirely white. During the breeding season they develop long plumes on the upper breast and among the scapulars. During the courtship period the bill is deep pink to bright red with a yellow tip, with the base of the lower mandible green; the lores are bright green; the eye is red; and the legs are red above the knee and red or black with a red wash below. During the laying period, the bill is dull red; the lores dull pale-green; and the eye is yellow. When the eggs are hatching, the bill is dull orange-yellow; the lores are green-yellow or yellow; the eye is yellow; the upper leg is yellowish and the lower leg is grey-black. During non-breeding season, the plumes are absent and the bill is orange-yellow to buff, the lores are green-yellow or yellow, the eye is horn colour and the legs may be yellow, brown, green or grey.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapINEG.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Intermediate Egret Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illINEG01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illINEG02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgINEG01.jpg";
+				},
+				{
+					credit = "Richard Akers";
+					filename = "imgINEG02.jpg";
+				},
+			);
+			species = intermedia;
+			squareCropImage = (
+				{
+					filename = "thmINEG.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Egrets;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Taking flight (R.Buckingham)";
+					filename = "audEGEG01.mp3";
+				},
+				{
+					credit = "Colony (J.Kendrick)";
+					filename = "audEGEG02.mp3";
+				},
+			);
+			biology = "Eastern Great Egrets are usually seen singly or in small parties, but they may congregate in large numbers in northern Australia during the wet season. They forage by wading slowly in shallow water, leaning forward with the neck extended, then suddenly stabbing at a fish or some other small aquatic vertebrates. Their flight is slow and deliberate, with the legs trailing well beyond the tail and the long neck is often bent into the shape of a question mark. Their most common call is a guttural, staccato <em>ar-ar-ar-ar-ar</em>.";
+			bite = 88cm;
+			class = "http://www.birdlife.org.au/bird-profile/eastern-great-egret";
+			commonNames = (
+				"Eastern Great Egret",
+				"White, Great, Great White or Large Egret or Heron",
+			);
+			diet = "The Eastern Great Egret is most difficult to distinguish from the <b>Intermediate Egret</b>, which has a proportionally shorter neck \U2014 about the same length as the body (the neck of the Eastern Great Egret is at least half as long again); they also have a rounder crown (Eastern Great Egrets have a flatter head), and the gape does not extend behind the eye. Eastern Great Egrets are much larger than <b>Little Egrets</b>, which hunt actively and restlessly in the shallows and have proportionally smaller, black, more dagger-like bills. The <b>Cattle Egret</b> is smaller and much more squat, with a shorter neck and legs and a short, thick bill.";
+			distinctive = "<li>Gape extends beyond the eye</li><li>Neck about 1.5 times the length of the body</li>";
+			family = Ardeidae;
+			genus = Ardea;
+			habitat = "The Eastern Great Egret inhabits a wide variety of terrestrial wetlands, and is also often seen in estuarine and littoral habitats, as well as in moist grasslands.";
+			identifier = "187 Eastern Great Egret";
+			"identifyingCharacteristics" = "A large white heron, the Eastern Great Egret is readily confused with other all-white egrets. The sexes are similar, and there is some slight seasonal variation, especially their bare parts. They are wholly white, and during the breeding season, they have long, filamentous plumes. The bill is blackish with a greenish-grey base during the courtship period, and the lores are bright olive-green or blue-green, the eyes are red and the legs are black (with a reddish tinge to the upper leg); during nest building period, the bill and the gape remain the same but the eye is yellow; and when the eggs are hatching, the bill is yellow with a black tip, the lores are dull green and the legs are grey-black, paler on the upper leg. During the non-breeding period they lack plumes, have a yellow bill and lores and grey-black legs.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapEGEG.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Eastern Great Egret Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illEGEG01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illEGEG02.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illEGEG03.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illEGEG04.jpg";
+				},
+				{
+					credit = "Ashley Herrod";
+					filename = "imgEGEG01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgEGEG02.jpg";
+				},
+			);
+			species = modesta;
+			squareCropImage = (
+				{
+					filename = "thmEGEG.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Egrets;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (D.Holly)";
+					filename = "audWFHE01.mp3";
+				},
+			);
+			biology = "White-faced Herons forage using a number of methods (e.g. standing and waiting, walking slowly, foot raking, wing flicking, lunging, scanning), usually while wading slowly through shallow water or walking in long grass with neck extended, or crouched with neck retracted, ready to strike. They walk slowly and deliberately, and fly with slow, deeply flapped wings that are slightly bowed, and the head and neck either retracted slightly or extended fully, and the legs and feet extended. They are often silent, but may emit a harsh call when in flight or at the nest.";
+			bite = 68cm;
+			class = "http://www.birdlife.org.au/bird-profile/white-faced-heron";
+			commonNames = (
+				"White-faced Heron",
+				"White-fronted Heron, Blue Crane",
+			);
+			diet = "The <b>Eastern Reef Egret</b> lacks a white face and is uniform grey. The <b>White-necked Heron</b> has an all-white head, neck and breast, with prominent spots on the throat, slaty-coloured upperparts, distinctive white patches on the leading edge of the spread wing, and black legs. The <b>Brolga</b> is much larger with a red head.";
+			distinctive = "<li>White face and throat</li><li>Blue-grey plumage</li><li>Yellow legs</li>";
+			family = Ardeidae;
+			genus = Egretta;
+			habitat = "White-faced Herons inhabit a wide variety of fresh, brackish or saline wetlands, including shallow terrestrial lakes and swamps, and littoral and estuarine habitats, where they forage in shallow water or on exposed substrates; and they are often seen away from wetlands in dry grasslands or other vegetation.";
+			identifier = "188 White-faced Heron";
+			"identifyingCharacteristics" = "A medium-sized heron, the White-faced Heron has a white face and throat, contrasting with the blue-grey plumage of the upperparts and slightly paler grey plumage of the underparts. In the breeding season, the nape, mantle and back may also have long pale-brown plumes while shorter, pinkish-brown plumes hang down from the lower neck, and the breast and belly may have a pale chestnut wash. The sexes are similar.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapWFHE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "White-faced Heron Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illWFHE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgWFHE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgWFHE02.jpg";
+				},
+			);
+			species = novaehollandiae;
+			squareCropImage = (
+				{
+					filename = "thmWFHE.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Herons;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult (R.Swaby)";
+					filename = "audWNHE01.mp3";
+				},
+				{
+					credit = "Birds flushed (R.Buckingham)";
+					filename = "audWNHE02.mp3";
+				},
+			);
+			biology = "White-necked Herons usually forage by stalking prey or using the stand and wait technique. They walk slowly and deliberately. In flight they hunch their head and neck back into the shoulders, flying with slow wing-beats or gliding effortlessly. They utter a loud croak when disturbed.";
+			bite = 68cm;
+			class = "http://www.birdlife.org.au/bird-profile/white-necked-heron";
+			commonNames = (
+				"White-necked Heron",
+				"Pacific Heron",
+			);
+			diet = "The <b>White-faced Heron</b> has a pale bluish-grey neck and body, and has white on the face and throat only.";
+			distinctive = "";
+			family = Ardeidae;
+			genus = Ardea;
+			habitat = "White-necked Herons usually inhabit shallow terrestrial wetlands, especially freshwater ones, where they forage around the margins; they also occur in moist grasslands and farmland, and they are sometimes also seen around estuaries.";
+			identifier = "189 White-necked Heron";
+			"identifyingCharacteristics" = "A large heron, the White-necked Heron has a white face, throat, neck and breast which contrast with its slaty-grey upperparts. The front of the neck and the central breast may have a line of dark spots extending down it. The breast and belly are brown-grey with white streaks. In flight, the spread wings have a characteristic white spot on the carpal joint (elbow). During the breeding season, they may not have the spots along the neck; they also have long maroon-coloured plumes that hang down from the scapulars and long white feathers that hang down from the base of the foreneck. The bill and the legs and feet are black. The sexes are similar.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapWNHE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "White-necked Heron Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illWNHE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgWNHE01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgWNHE02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgWNHE03.jpg";
+				},
+			);
+			species = pacifica;
+			squareCropImage = (
+				{
+					filename = "thmWNHE.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Herons;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult feeding (R.Swaby)";
+					filename = "audNNHE01.mp3";
+				},
+				{
+					credit = "Brief call (R.Buckingham)";
+					filename = "audNNHE02.mp3";
+				},
+			);
+			biology = "Nankeen Night-Herons are generally seen singly, but may roost in groups in dense vegetation. They usually feed in twilight and at night (though occasionally by day), foraging mostly by slowly stalking their prey or standing and waiting in a hunched posture. They fly with rapid wing-beats \U2014 their flight has been likened to that of a flying fox. They occasionally give a guttural quark in alarm or in flight.";
+			bite = 60cm;
+			class = "http://www.birdlife.org.au/bird-profile/nankeen-night-heron";
+			commonNames = (
+				"Nankeen Night-heron",
+				"Rufous Night-Heron; Nankeen Crane",
+			);
+			diet = "Adult Nankeen Night-Herons are unmistakeable, but in juvenile plumage they could be mistaken for <b>Australasian Bitterns</b>. Look out for the Night-Heron\U2019s lighter cinnamon-rufous coloration, its lack of a moustachial stripe and the presence of rows of spots on the upperwing; it is also smaller than the Australasian Bittern, more likely to be arboreal than associated with reedbeds, and has a more hunched stance.";
+			distinctive = "<li>Black cap and rufous upperparts in adults</li><li>Spotted plumage in juveniles</li>";
+			family = Ardeidae;
+			genus = Nycticorax;
+			habitat = "They inhabit a wide range of wetlands, including terrestrial, estuarine and littoral habitats, where they are usually associated with shallow, slow-moving or still water, often with sheltering vegetation adjacent or nearby. They occur more often in freshwater habitats than saline ones.";
+			identifier = "192 Nankeen Night-heron";
+			"identifyingCharacteristics" = "A stocky heron, the adult Nankeen Night-Heron has a rufous back and a black crown. The sexes are similar; there is some seasonal variation in the coloration of the bare parts. Juveniles are quite different. In adults, the crown and nape are black, with two or three long white plumes, and the rest of the face is whitish with a cinnamon tinge. The hindneck, back and tail are cinnamon-rufous. The underparts are generally whitish with a cinnamon wash. The upperwing is cinnamon-rufous; and the underwing is white with pale cinnamon-rufous flight feathers. The bill is black, the lores are pale green (blue during courtship), the eye is yellow, and the legs and feet are yellow (bright pink during courtship). Juveniles are generally cinnamon-brown with cream, off-white, buff and dark-brown markings; these manifest as streaking on the head and underparts, and bold spotting on the upperparts.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapNNHE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Nankeen Night-heron Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illNNHE01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illNNHE02.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illNNHE03.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgNNHE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgNNHE02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgNNHE03.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgNNHE04.jpg";
+				},
+			);
+			species = caledonicus;
+			squareCropImage = (
+				{
+					filename = "thmNNHE.jpg";
+				},
+			);
+			taxonGroup = "Bitterns & Night-heron";
+			taxonSubgroup = "Night-heron";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "From cover (M.Paul)";
+					filename = "audALBI01.mp3";
+				},
+			);
+			biology = "Australian Little Bitterns are secretive, skulking in dense reeds, and often perching among the emergent vegetation. They walk with a crouched posture, with the head inclined forwards, and taking quick steps, but when foraging they often stalk slowly through the reeds in search of food. When alarmed they extend the neck vertically and point the bill upwards, slowly turning to keep the breast facing the intruder. They are difficult to flush, and when they do they rise awkwardly with neck outstretched and legs dangling, usually flying a short distance, low over water or reeds, and landing in another patch of vegetation. They give a variety of croaks and grunts. ";
+			bite = 30cm;
+			class = "http://www.birdlife.org.au/projects/bittern-project";
+			commonNames = (
+				"Australian Little Bittern",
+				"Little Bittern, Leach Bittern, Minute Bittern",
+			);
+			diet = "";
+			distinctive = "<li>Black crown</li><li>Buff to Rufous face and neck</li><li>Dark upperparts</li>";
+			family = Ardeidae;
+			genus = Ixobrychus;
+			habitat = "They usually inhabit freshwater terrestrial wetlands with dense emergent vegetation, particularly tall reeds, rushes or sedges, or, very occasionally, inundated shrubs such as lignum or paperbarks. They very occasionally also occur in brackish or saline wetlands, including saltmarsh and mangrove swamps.";
+			identifier = "195 Australian Little Bittern";
+			"identifyingCharacteristics" = "A small gold-and-black bittern, the Australian Little Bittern is sexually dimorphic. The male has a black crown, and the face and sides of the neck are buff or rufous. The hindneck, mantle, back and tail are all black. The throat and foreneck are buff with a dark-brown stripe down the middle, extending down the breast, which is buff, as are the flanks; the belly and undertail are white. The upperwing comprises black flight feathers, a buff wing-patch on the coverts; the underwing has grey flight feathers and white greater coverts, with the remainder buff. The bill is yellow with a black culmen, and the legs and feet are green. The female is similar, but differs in the colour of the upperparts: a chestnut hindneck and dark-brown or red-brown back with buff streaks.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapALBI.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Australasian Bittern Project";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illALBI01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgALBI01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgALBI02.jpg";
+				},
+			);
+			species = dubius;
+			squareCropImage = (
+				{
+					filename = "thmALBI.jpg";
+				},
+			);
+			taxonGroup = "Bitterns & Night-heron";
+			taxonSubgroup = Bitterns;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Territorial call (J.Kendrick)";
+					filename = "audAUBI01.mp3";
+				},
+				{
+					credit = "Adult (A.Corrick)";
+					filename = "audAUBI02.mp3";
+				},
+				{
+					credit = "Adult (R.Jaensch)";
+					filename = "audAUBI03.mp3";
+				},
+			);
+			biology = "Australasian Bitterns use a number of techniques to forage, including standing and waiting, slow stalking and active pursuit. They move slowly and deliberately through the reeds. When alarmed they stand erect among the reeds with the neck stretched upwards and the bill pointing skywards, making them difficult to detect. When flushed from the reeds they fly with steady, slow and shallow wing-beats with the legs dangling. They give a loud booming call during breeding season.";
+			bite = 71cm;
+			class = "http://www.birdlife.org.au/projects/bittern-project";
+			commonNames = (
+				"Australasian Bittern",
+				"Australian, Brown or Black-headed Bittern; Boomer, Bullhead, Bullroarer, Bunyip bird",
+			);
+			diet = "The juvenile <b>Nankeen Night-Heron</b> <em>Nycticorax caledonicus</em> is a similar shape and also has patterned upperparts, but is generally lighter rufous-brown, lacks a dark moustachial stripe, and has rows of white spots on the upperwing. It is also smaller.";
+			distinctive = "<li>Dark moustachial stripe on face</li><li>Black or dark brown on top of head</li><li>Dark brown or black on back</li><li>Consistent mottling or streaking on upperwing</li>";
+			family = Ardeidae;
+			genus = Botaurus;
+			habitat = "Most often inhabit freshwater wetlands, especially in dense reed beds or other dense vegetation such as sedges or rushes.";
+			identifier = "197 Australasian Bittern";
+			"identifyingCharacteristics" = "A large stocky bird, the Australasian Bittern with upperparts with a mottled pattern of dark brown, buff and black streaks and spots; its underparts are streaked brown and buff. It has a pale throat and eyebrow, and there is a dark brown stripe that extends from the base of the bill, along the neck to the breast. The bill is yellowish or brownish and the legs are greenish. The sexes are similar.";
+			lcs = Endangered;
+			mapImage = (
+				{
+					filename = "mapAUBI.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = Endangered;
+			order = Ciconiiformes;
+			phylum = "Australasian Bittern Project";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAUBI01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAUBI02.jpg";
+				},
+				{
+					credit = "Peter O'Connell";
+					filename = "imgAUBI01.jpg";
+				},
+				{
+					credit = "Rob Clemens";
+					filename = "imgAUBI02.jpg";
+				},
+			);
+			species = poiciloptilus;
+			squareCropImage = (
+				{
+					filename = "thmAUBI.jpg";
+				},
+			);
+			taxonGroup = "Bitterns & Night-heron";
+			taxonSubgroup = Bitterns;
+			wcs = Endangered;
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adults in water (S.Davies)";
+					filename = "audMAGO01.mp3";
+				},
+				{
+					credit = "In flight (R.Buckingham)";
+					filename = "audMAGO02.mp3";
+				},
+			);
+			biology = "Magpie Geese sometimes form huge flocks at suitable wetlands. Thet swim rather slowly, floating high on the water, often upending in shallow water to feed. On land they dig out bulbs from the soft mud, and walk easily through dense swamp vegetation. When alarmed they extend the neck upwards, and they take off almost vertically when disturbed. They fly with the neck extended and wings flapping constantly, and only glide briefly before landing. They often give a honking call. ";
+			bite = 82cm;
+			class = "http://www.birdlife.org.au/bird-profile/magpie-goose";
+			commonNames = (
+				"Magpie Goose",
+				"Black-and-white, Pied or Semipalmated Goose",
+			);
+			diet = None;
+			distinctive = "<li>Cranial knob</li><li>Black head and neck</li><li>Pied plumage pattern</li>";
+			family = Anseranatidae;
+			genus = Anseranas;
+			habitat = "In northern Australia, often recorded around terrestrial wetlands, especially on floodplains where there is surface water, particularly in the wet season; during the dry season, they congregate around deep, permanent wetlands. They also occur in the flooded fields of rice farms. In southern Australia, they are usually recorded around permanent wetlands and in nearby grassy habitats.";
+			identifier = "203 Magpie Goose";
+			"identifyingCharacteristics" = "The Magpie Goose has fleshy-red skin on its face, but the rest of the head and neck have black feathering. The upperparts are entirely white except for the tail, which is black; the underparts are all white except for the upperbreast and the very tops of the \U2018trousered\U2019 legs, which have black feathers. The upperwings are black with a broad white leading edge, while the underwing is white with black flight feathers. The bill is fleshy-red in colour, and the legs and feet vary between pale yellow and bright orange.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapMAGO.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Magpie Goose Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illMAGO01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgMAGO01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgMAGO02.jpg";
+				},
+			);
+			species = semipalmata;
+			squareCropImage = (
+				{
+					filename = "thmMAGO.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = Goose;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Captive adult (N.Robinson)";
+					filename = "audAWDU01.mp3";
+				},
+				{
+					credit = "Adult squabbling (D.Holly)";
+					filename = "audAWDU02.mp3";
+				},
+			);
+			biology = "Often seen in small groups, but may form quite large flocks. They are frequently seen loafing on grassy or muddy banks beside wetlands, or grazing among short green grass. They stand with an upright stance, swim buoyantly, and in flight they are fast and manouverable. They often give a drawn-out, nasal <em>waah</em> call..";
+			bite = 47cm;
+			class = "http://www.birdlife.org.au/bird-profile/australian-wood-duck";
+			commonNames = (
+				"Australian Wood Duck",
+				"Wood Duck, Maned Duck, Blue Duck, Maned Goose",
+			);
+			diet = "";
+			distinctive = "<li>Chocolate-brown head on male</li><li>Mane on hindneck of male</li><li>Pale lines above and below eye of female</li>";
+			family = Anseranatidae;
+			genus = Chenonetta;
+			habitat = "Australian Wood Ducks inhabit terrestrial wetlands, usually with freshwater, as well as grasslands (including short, green pasture or fairways of golf courses), and occasionally wooded lands. Preferred wetlands include reservoirs and farm dams, usually where there are muddy or grassy banks to roost on, and may also occur around ornamental ponds or swamps. ";
+			identifier = "202 Australian Wood Duck";
+			"identifyingCharacteristics" = "A medium-sized, goose-like duck with a small head, the Australian Wood Duck has distinctive male and female plumage. The male has a brown head and upper neck with a short black mane of feathers on the back of the neck. The lower neck and upper back are grey with a brownish tinge and brown spots; the lower back and tail are black. The upper breast is gray with black-and-white mottling, while the lower breast and flanks are grey with fine black vermiculations; the belly and undertail are black. On the upperwings, the upper wing-coverts are grey, the primaries are black, and the secondaries and secondary coverts are white, bisected by a narrow green speculum. On the underwing, the primaries are blackish and the under wing-coverts are white. The female is similar to the male except the head is paler brown, there is a pale stripe above and below the eye, and the lower breast and flanks are brown with whitish spots.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAWDU.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Australian Wood Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAWDU01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAWDU02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgAWDU01.jpg";
+				},
+				{
+					credit = "Ashley Herrod";
+					filename = "imgAWDU02.jpg";
+				},
+			);
+			species = jubata;
+			squareCropImage = (
+				{
+					filename = "thmAWDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Adult pair (R.Buckingham)";
+					filename = "audBLSW01.mp3";
+				},
+				{
+					credit = "Adult cry (R.Buckingham)";
+					filename = "audBLSW02.mp3";
+				},
+				{
+					credit = "Adult, cygnets (R.Buckingham)";
+					filename = "audBLSW03.mp3";
+				},
+			);
+			biology = "Black Swans occasionally form great flocks on large, permanent wetlands, but they are often seen in small groups or singly. They usually forage in the water, upending to reach aquatic vegetation up to a metre below the surface, or picking at plants on the surface; they also graze on short grass on land. They swim gracefully, often with the neck extended vertically, and when they take off from the water, they run across its surface. In flight, the wings are flapped slowly and the neck is stretched out in front. They give a musical trumpeting call.";
+			bite = "1.2m";
+			class = "http://www.birdlife.org.au/bird-profile/black-swan";
+			commonNames = (
+				"Black Swan",
+				"",
+			);
+			diet = "The <b>Magpie Goose</b> is readily distinguished in flight by having almost the reverse pattern of plumage markings to a Black Swan, having a white abdomen and underwing coverts and black flight feathers.";
+			distinctive = "<li>Long neck</li><li>All-black plumage except for white flight feathers</li><li>Conspicuous red bill</li>";
+			family = Anaditae;
+			genus = Cygnus;
+			habitat = "Black Swans inhabit a wide range of terrestrial, estuarine and marine wetlands, though large, permanent wetlands, such as lakes and reservoirs, where there are areas of open water are preferred. Terrestrial habitats are mostly used when they are flooded or moist.";
+			identifier = "203 Black Swan";
+			"identifyingCharacteristics" = "The Black Swan has black plumage on its head, neck and body, often with a brownish tinge and narrow, pale edges to the feathers. The wing has black coverts and contrasting white flight feathers. The bill is red or red-orange with a narrow white bar across it, and the legs and feet are dark grey to black. The sexes are similar, but females are slightly smaller; there is no seasonal variation.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBLSW.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Black Swan Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBLSW01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgBLSW01.jpg";
+				},
+				{
+					credit = "Dean Ingwersen";
+					filename = "imgBLSW02.jpg";
+				},
+			);
+			species = atratus;
+			squareCropImage = (
+				{
+					filename = "thmBLSW.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = Swan;
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Soft twitter (R.Swaby)";
+					filename = "audWWDU01.mp3";
+				},
+				{
+					credit = "Small flock (R.Buckingham)";
+					filename = "audWWDU02.mp3";
+				},
+				{
+					credit = "Clicks (R.Buckingham)";
+					filename = "audWWDU03.mp3";
+				},
+			);
+			biology = "The Wandering Whistling-Duck may occur in flocks of thousands, but is more usually seen in small flocks, loafing on the muddy margins of wetlands or in shallow water. They forage in the water, either taking food from emergent plants or diving beneath the water\U2019s surface. When flushed, they launch into the air with their legs dangling; they fly with the neck outstretched and a hunched appearance, their rounded wings beating slowly and producing a characteristic whistle. They give a shrill whistling call.";
+			bite = 58cm;
+			class = "http://www.birdlife.org.au/bird-profile/wandering-whistling-duck";
+			commonNames = (
+				"Wandering Whistling-duck",
+				"Black-legged, Wandering or Whistling Tree-Duck, Diving or Water Whistling- or Whistle-Duck; Red or Water Whistler",
+			);
+			diet = "The <b>Plumed Whistling-Duck</b> is larger and more slender, has prominent chestnut-striped flanks and elongated plumes, barred underwings and pink legs and bill.";
+			distinctive = "<li>Black bill, legs and feet</li>";
+			family = Anaditae;
+			genus = Dendrocygna;
+			habitat = "Black Swans inhabit a wide range of terrestrial, estuarine and marine wetlands, though large, permanent wetlands, such as lakes and reservoirs, where there are areas of open water are preferred. Terrestrial habitats are mostly used when they are flooded or moist.";
+			identifier = "204 Wandering Whistling-duck";
+			"identifyingCharacteristics" = "A small goose-like duck, the Wandering Whistling-Duck has a long neck and legs and rounded wings. The sexes are similar. The crown and hindneck are dark brown or black, with the rest of the head paler, buffy. The back, scapulars and rump are dark brown or black with chestnut scalloping; the tail is black. The underparts are mostly buffy, grading to chestnut on the belly, and the flanks have short white plumes with chestnut margins; the undertail coverts are white. The upperwing is mostly blackish, but with a rich-chestnut innerwing; the underwing is dark brown. The bill, legs and feet are black. ";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapWWDU.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Wandering Whistling-duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illWWDU01.jpg";
+				},
+			);
+			species = arcuata;
+			squareCropImage = (
+				{
+					filename = "thmWWDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Male, female (V.Lowe)";
+					filename = "audAUSH01.mp3";
+				},
+				{
+					credit = "Male/deep, female/soft (R.Buckingham)";
+					filename = "audAUSH02.mp3";
+				},
+			);
+			biology = "Occur in small groups, but sometimes also congregate in large flocks which may contain a thousand birds or more. They often roost on the muddy shores of wetlands or swim buoyantly on open water, and they are difficult to approach and easily flushed. Their flight is strong and direct, and flocks often fly in \U2018V\U2019 formations. Males give a honking call, while females often answer with a buzz.";
+			bite = 64cm;
+			class = "http://www.birdlife.org.au/bird-profile/australian-shelduck";
+			commonNames = (
+				"Australian Shelduck",
+				"Chestnut-breasted Shelduck, Chestnut-coloured Shelduck, Chestnut Shelduck, Mountain Duck",
+			);
+			diet = "The <b>Plumed Whistling-Duck</b> is larger and more slender, has prominent chestnut-striped flanks and elongated plumes, barred underwings and pink legs and bill.";
+			distinctive = "<li>Combination of dark head and chestnut breast</li><li>White collar around neck</li><li>White rings around eye and base of bill on female</li><li>Extensive white underwing</li>";
+			family = Anseranatidae;
+			genus = Tadorna;
+			habitat = "Inhabit open habitats, and equally at home in terrestrial and aquatic habitats. Often recorded in croplands, pasture and grasslands, as well as in large or open terrestrial wetlands (fresh or saline), and estuarine habitats. ";
+			identifier = "207 Australian Shelduck";
+			"identifyingCharacteristics" = "A large, boldly coloured shelduck, the sexes of the Australian Shelduck have different plumage. The male has a black head and upper neck; there is a white collar around the base of the neck. The mantle is cinnamon-brown, the back and scapulars are black with fine buffy vermiculations, and the rump and tail are black. The upper breast is cinnamon-brown, joining up with the mantle; the lower breast and abdomen are dusky-brown with light vermiculations, and the undertail is black. The upper wing-coverts are white, the primaries black, and the secondaries have a large green speculum; the tertials are rich chestnut. The underwing is mostly white, contrasting with dark flight feathers.</p><br /><p>The female is similar, but has a prominent white ring around the eye and at the base of the bill; the mantle and upper breast are deeper chestnut. The female is also noticeably smaller than the male.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapAUSH.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Australian Shelduck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illAUSH01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illAUSH02.jpg";
+				},
+			);
+			species = tadornoides;
+			squareCropImage = (
+				{
+					filename = "thmAUSH.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Courtship (R.Buckingham)";
+					filename = "audPBDU01.mp3";
+				},
+				{
+					credit = "Male (R.Buckingham)";
+					filename = "audPBDU02.mp3";
+				},
+				{
+					credit = "Loud quacks (F.van Gessel)";
+					filename = "audPBDU03.mp3";
+				},
+			);
+			biology = "Pacific Black Ducks are usually seen in pairs or small flocks, but may congregate into much larger flocks. They swim high on the water, and feed by filtering the water\U2019s surface for food, or suzzling in soft mud, upending in shallow water, or, occasionally, feeding among short grass. On land they have a rather horizontal stance. When flushed, they take off swiftly, rising almost vertically; their flight is characterised by shallow wing-beats which produce a distinctive whistling sound. They give quacking calls, and males also give a soft <em>raehb</em>.";
+			bite = 53cm;
+			class = "http://www.birdlife.org.au/bird-profile/pacific-black-duck";
+			commonNames = (
+				"Pacific Black Duck",
+				"Black Duck, Brown Duck, Grey Duck, Wild Duck, Australian Wild Duck, Blackie",
+			);
+			diet = "With good views the Pacific Black Duck should be unmistakeable. It is distinguished from the female <b>Australasian Shoveler</b>, which has a poorly defined eye-stripe, a large distinctively-shaped bill and narrow wings with pale-blue plumage on the upper forewings. The <b>Freckled Duck</b> is distinguished by its uniformly spotted dark plumage, distinctively-shaped bill, lack of speculum and pale (not pure white) underwing.";
+			distinctive = "<li>Distinctive facial pattern, including a black stripe through the eye</li><li>Conspicuous white underwings</li>";
+			family = Anseranatidae;
+			genus = Anas;
+			habitat = "Pacific Black Ducks inhabit a wide range of terrestrial wetlands, and are also occasionally seen in estuarine or marine waters.";
+			identifier = "208 Pacific Black Duck";
+			"identifyingCharacteristics" = "The Pacific Black Duck is a large, heavily built duck with a distinctive facial pattern, a long neck and conspicuous white underwings visible in flight. The crown is black, and there is an off-white supercilium, a black eye-stripe, an off-white stripe below that, and a dark malar stripe, all of which combine to form the species\U2019 distinctive striped facial pattern. The hindneck is grey, the back and rump blackish with a conspicuous scaled effect caused by pale edges to the feathers, and the tail is dark brown with paler margins. The throat is buffy, with the rest of the underparts dark grey brown with paler mottling. The upperwings are dark brown above with pale scalloping and an iridescent speculum, and the underwings are white with greyish flight feathers. The bill is grey or grey-green, and the legs and feet are usually grey-green.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapPBDU.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Pacific Black Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illPBDU01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgPBDU01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgPBDU02.jpg";
+				},
+			);
+			species = superciliousa;
+			squareCropImage = (
+				{
+					filename = "thmPBDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Female, male (N.Robinson)";
+					filename = "audCHTE01.mp3";
+				},
+				{
+					credit = "Female, male (P.Fullagar)";
+					filename = "audCHTE02.mp3";
+				},
+			);
+			biology = "Chestnut Teal swim buoyantly, and often loaf the banks of wetlands or on nearby logs. They feed by dabbling at the water\U2019s edge or upending in the shallows. Their voice is similar to that of the Grey Teal: the male gives a loud whistled call, while females have a laughing call.";
+			bite = 44cm;
+			class = "http://www.birdlife.org.au/bird-profile/chestnut-teal";
+			commonNames = (
+				"Chestnut Teal",
+				"Black Teal, Brown Teal, Chestnut-breasted Teal, Green-headed Teal, Mountain Teal, Red Teal",
+			);
+			diet = "The <b>Grey Teal</b> is distinguished from the female Chestnut Teal by appearing slightly lighter, grey, with light-grey scalloping on plumage rather than warmer light brown. Also, the top and sides of the head appear lighter, grey, rather than having a darkish cap.";
+			distinctive = "<li>Iridescent green head on breeding male</li><li>Rich chestnut breast on breeding male</li><li>Light-brown scalloping on feathers on female/non-breeding male</li>";
+			family = Anseranatidae;
+			genus = Anas;
+			habitat = "Chestnut Teal inhabit a variety of permanent terrestrial and estuarine wetlands, especially shallow ones occurring on both freshwater and saline wetlands, especially near the coast, and they are often seen on intertidal mudflats.";
+			identifier = "210 Chestnut Teal";
+			"identifyingCharacteristics" = "A small, compact duck with a high forehead and a round head, the Chestnut Teal is sexually dimorphic. In breeding plumage, the male has and iridescent green head and upper neck. The lower neck is chestnut, the back is dark brown and the rump and tail are black. The breast and abdomen are rich chestnut with a dark-brown blotch on each feather; the sides of the vent are white, forming a conspicuous patch that contrasts with the rest of the underparts, and the undertail is black. The upperwing is dark brown with a glossy speculum, edged white broadly on the leading edge and narrowly on the trailing edge; the underwing is generally dark brown, with a large white triangle in the \U2018armpit\U2019. The eye is red, the bill is blue-grey and the legs and feet are green-grey. In non-breeding plumage, the male closely resembles the female Chestnut Teal, which has a dark-brown crown with buff flecking (imparting the impression of a darkish cap), fawn-coloured cheeks, chin, throat and foreneck with black streaking; the hindneck and back are dark brown with light-brown edges to each feather, and dark-brown rump and tail. The breast and abdomen are pale brown, with a dark-brown blotch on each feather. The wings are the same as on the male.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapCHTE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Chestnut Teal Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illCHTE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgCHTE01.jpg";
+				},
+			);
+			species = castanea;
+			squareCropImage = (
+				{
+					filename = "thmCHTE.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Captive female (N.Robinson)";
+					filename = "audGRTE01.mp3";
+				},
+				{
+					credit = "Captive female, male (P.Fullagar)";
+					filename = "audGRTE02.mp3";
+				},
+				{
+					credit = "Captive male (P.Fullagar)";
+					filename = "audGRTE03.mp3";
+				},
+				{
+					credit = "Captive male (P.Fullagar)";
+					filename = "audGRTE03.mp3";
+				},
+			);
+			biology = "The Grey Teal sometimes congregates in large flocks. They swim buoyantly on the water with the head held high, and forage by filtering at the water\U2019s surface or in soft mud, and occasionally up end to eat. On land they walk with a nearly-horizontal stance, and their flight is fast. When flushed, they may dive beneath the water or spring quickly into the air. The male gives a loud whistled call, while females have a laughing call.";
+			bite = 43cm;
+			class = "http://www.birdlife.org.au/bird-profile/grey-teal";
+			commonNames = (
+				"Grey Teal",
+				"Slender Teal, Wood Teal, Oceanic Teal, Mountain Teal, Australasian Grey Teal",
+			);
+			diet = "The female <b>Chestnut Teal</b> is quite similar, but appears generally darker and has a warmer tone to its plumage; there is also more streaking on the sides of the face and lacks an off-white chin.";
+			distinctive = "<li>Grey duck with paler scalloping on feathers</li><li>Bright red eye</li>";
+			family = Anseranatidae;
+			genus = Anas;
+			habitat = "Grey Teal inhabit a wide range of terrestrial wetlands, and are also occasionally seen in sheltered estuarine or marine waters. However, they favour large shallow inland wetlands when they are available.";
+			identifier = "211 Grey Teal";
+			"identifyingCharacteristics" = "A small, drab duck, the Grey Teal has a short, slender neck and a high forehead; the sexes are similar. The crown is dark grey with pale streaking, continuing into the hindneck; the cheeks, sides of the neck and throat are pale, off-white. The body is dark grey, though each feather has a pale edge, imparting a distinctly scaled appearance, except on the breast, which appears spotted. The wing is darker grey than the body, with a large white wedge on the greater coverts, a black speculum with an iridescent green centre and the trailing edge tipped white; the underwing is mostly dark grey-brown with a white triangle on the axillaries. The eye is crimson, the bill is bluish grey, and the legs and feet are dull grey.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapGRTE.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Grey Teal Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illGRTE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgGRTE01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgGRTE02.jpg";
+				},
+			);
+			species = gracilis;
+			squareCropImage = (
+				{
+					filename = "thmGRTE.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Female (P.Fullagar)";
+					filename = "audANSH01.mp3";
+				},
+				{
+					credit = "Captive male (P.Fullagar)";
+					filename = "audANSH02.mp3";
+				},
+			);
+			biology = "They swim low on the water, usually in small groups, but they occasionally form larger flocks, and are often seen in the company of other ducks. When they take flight, Australasian Shovelers take off vertically, and then fly swiftly and directly, though sometimes turning haphazardly. They forage by dabbling in the mud or on the water\U2019s surface, swimming with the head partly submerged while filtering food from the water with the specialised bill. They very occasionally upend to feed on the bottom.";
+			bite = 50cm;
+			class = "http://www.birdlife.org.au/bird-profile/australasian-shoveler";
+			commonNames = (
+				"Australasian Shoveler",
+				"Australian Shoveler, Blue-winged Shoveler, Southern Shoveler, Spoonbill Duck, Widgeon, Shovelbill, Stinker",
+			);
+			diet = "The Australasian Shoveler can be separated from all other Australian ducks by its massive spatulate bill. Only the <b>Pink-eared Duck</b> has a similarly large bill, but the shape differs greatly, having a leathery triangular flange at the tip (and its plumage has bold black-and-white stripes). ";
+			distinctive = "<li>Large, dark, spatulate bill</li><li>Bright orange legs</li>";
+			family = Anseranatidae;
+			genus = Anas;
+			habitat = "Australasian Shovelers usually inhabit terrestrial wetlands, especially large, deep, permanent waters, such as lakes, billabongs and swamps, with abundant aquatic vegetation; they are also occasionally seen in sheltered estuarine waters.";
+			identifier = "212 Australasian Shoveler";
+			"identifyingCharacteristics" = "A slim duck with a short neck, the Australasian Shoveler has a large, spatulate bill. The sexes differ and there are seasonal differences. The male in breeding plumage has a glossy blue head and neck with a distinctive white crescent-shaped line in front of the eye. The back is black-brown with light-brown scallopping; the scapulars are pale blue with white streaks; the rump and tail-coverts are glossy black. The upper breast is mottled black-brown and buff, the lower breast, belly and flanks are bright chestnut with black spots, and there is a white patch on the posterior flanks. On the upperwing, the primaries are dark brown, most of the coverts are pale blue and there is a glossy green speculum, separated from the coverts by a white band; the underwing has white coverts and dark grey-brown flight feathers. The eye is yellow, the bill is grey-black and the legs and feet are bright orange. In non-breeding plumage, the male is similar to the female (see below), but with a diffuse white crescent in front of the eye and reddish-brown with black spotting on the breast. The female Australasian Shoveler is generally dark brown, with pale streaking on the face and an indistinct dark-brown eye-stripe, buff scalloping on the upperparts, and pale-and-dark-brown mottling on the underparts. The upper wing-coverts are paler than on the male, but otherwise the wing pattern is similar. The iris is dark brown.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapANSH.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Australasian Shoveler Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illANSH01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illANSH02.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illANSH03.jpg";
+				},
+				{
+					credit = "Dave Watts";
+					filename = "imgANSH01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgANSH02.jpg";
+				},
+			);
+			species = rhynchotis;
+			squareCropImage = (
+				{
+					filename = "thmANSH.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Flock flying (P.Fullagar)";
+					filename = "audPEDU01.mp3";
+				},
+				{
+					credit = "Captives (P.Fullagar)";
+					filename = "audPEDU02.mp3";
+				},
+			);
+			biology = "Pink-eared Ducks sometimes form large flocks, occasionally containing thousands of birds. They often loaf on logs in the water. They float high on the water, and feed with the bill submerged up to eye-level. They fly with rapid wing-beats and often circle around the wetland when flushed. Flocks are noisy, uttering a continuous twittering whistle.";
+			bite = 42cm;
+			class = "http://www.birdlife.org.au/bird-profile/pink-eared-duck";
+			commonNames = (
+				"Pink-eared Duck",
+				"Zebra Duck, Pink-eyed Duck, Zebra Teal, Whistling Teal, Pink-ear, Pink-eye, Pinkie, Whistler, Widgeon",
+			);
+			diet = "None. The <b>Australasian Shoveler</b> has a similarly shaped bill, but is otherwise dissimilar, being larger, and having more uniform, darker plumage, and floating low in the water.";
+			distinctive = "<li>Bold stripes on lower neck, breast and flanks</li><li>Dark eye-patch</li><li>Large, square-tipped bill</li>";
+			family = Anseranatidae;
+			genus = Malacorhynchus;
+			habitat = "Usually inhabit large shallow wetlands in inland Australia. They prefer turbid freshwater wetlands, but are occasionally seen on brackish or saline waters.";
+			identifier = "213 Pink-eared Duck";
+			"identifyingCharacteristics" = "A small duck with a hunched appearance and a large, square-tipped bill, the sexes of the Pink-eared Duck appear similar. The forehead and crown are grey, the face is white with a large brown patch over the eye, with a small pink spot behind the eye. The dark feathering of the eye-patch continues as a dark stripe along the edge of the crown and onto the hindneck. The mantle is white with dark-brown barring, the back is uniform dark brown, the rump is white and the tail is dark brown with a white terminal band. The neck, beast, flanks and belly are white with bold dark-brown barring, boldest on the flanks. The undertail coverts are chestnut. The upperwing is brown with a narrow white trailing edge; on the underwing, the flight feathers are brown and the coverts are white with a mottled wingbar. The square-tipped bill is leaden-grey, and the legs and feet are dark grey.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapPEDU.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Pink-eared Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illPEDU01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgPEDU01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgPEDU02.jpg";
+				},
+			);
+			species = membranaceus;
+			squareCropImage = (
+				{
+					filename = "thmPEDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Dabling Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Captive adult (P.Fullagar)";
+					filename = "audFRDU01.mp3";
+				},
+				{
+					credit = "Captive (P.Fullagar)";
+					filename = "audFRDU02.mp3";
+				},
+			);
+			biology = "Freckled Ducks often forms flocks, often seen loafing on banks or tree stumps and logs surrounded by water. They swim buoyantly, and seldom dive. They may dive when disturbed, but usually flush after taking a short run across the water, and then circling low. The flight is characterised by quick wing-beats, with the head held low on an outstretched neck. They usually feed by walking slowly in the shallows, scything the bill back and forth to filter food from the water. They are generally silent.";
+			bite = 53cm;
+			class = "http://www.birdlife.org.au/bird-profile/freckled-duck";
+			commonNames = (
+				"Freckled Duck",
+				"Monkey Duck, Queensland Monkey Duck, Speckled Duck, Oatmeal Duck, Grey Duck, Diamantina Duck, Gadwall, Canvasback",
+			);
+			diet = "The <b>Pacific Black Duck</b> is a similar size and has a large white section on its underwing, but it contrasts with the dark flight feathers (off-white and flecked pattern on Freckled Duck); the Pacific Black Duck also has a speculum on the upperwing, and a distinctively striped facial pattern. In flight the <b>Hardhead</b> may also be difficult to distinguish in some views: look out for a white patch near the base of the tail (absent in Freckled), rich chocolate-coloured plumage (grey-brown and speckled in Freckled) and a round profile of the head (distinctly pointed in Freckled).";
+			distinctive = "<li>Pointed head</li><li>Scoop-shaped bill</li><li>Mottled grey-brown plumage</li>";
+			family = Anseranatidae;
+			genus = Stictonetta;
+			habitat = "Freckled Ducks inhabit a range of terrestrial wetlands, ephemeral or permanent, especially shallow ones with much aquatic vegetation, and they often occur where there are logs and other timber or thickets of dense vegetation.";
+			identifier = "214 Freckled Duck";
+			"identifyingCharacteristics" = "A heavy-bodied duck with dark plumage, the Freckled Duck has a distinctive pointed head and a scoop-shaped bill. The sexes differ slightly, and there is slight seasonal variation. During the breeding season, almost the entire body of the male is sooty brown with much pale speckling and vermiculation, though the abdomen is distinctly paler, cream or pale brown, which may be discernable on birds in flight. The wings are unpatterned; the upperwing has dark flight feathers and speckled coverts and secondaries, and lacks a speculum, while on the underwing the coverts are off-white. The bill of the male is two-tone: bright red from the base to the nostril on the upper mandible, and otherwise slate grey. During the non-breeding season, the plumage of the male fades slightly, and the shade of the red on the bill fades to orange-red. The female appears similar to the non-breeding male, but the bill of the female is entirely slate grey.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapFRDU.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Freckled Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illFRDU01.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgFRDU01.jpg";
+				},
+			);
+			species = naevosa;
+			squareCropImage = (
+				{
+					filename = "thmFRDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Diving Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Displaying male (R.Buckingham)";
+					filename = "audHARD01.mp3";
+				},
+				{
+					credit = "Female, young (R.Buckingham)";
+					filename = "audHARD02.mp3";
+				},
+			);
+			biology = "Hardheads usually occur in small numbers, though they occasionally congregate into large flocks. They swim with a low profile in deep, open water where they forage by diving, though they occasionally dabble in the shallows. They seldom occur on land. They take off from the water steeply, and fly swiftly and directly with rapid wing-beats that make a whirring sound. They are usually silent, though males give a soft, wheezing whistle, and females make a soft croak.";
+			bite = 52cm;
+			class = "http://www.birdlife.org.au/bird-profile/hardhead";
+			commonNames = (
+				Hardhead,
+				"White-eyed Duck, Widgeon, Barwing, Brownhead, Copperhead, Coppertop, White-eye, White-wing",
+			);
+			diet = "None, though when swimming, the <b>Blue-billed Duck</b> may appear superficially similar. The male Blue-billed Duck has a black head that contrasts with the chestnut body; iris is dark (white in male Hardhead); the tail is stiff and the under tail-coverts are mottled (clear white in Hardhead); and the bill is blue, and lacks a pale saddle across it.";
+			distinctive = "<li>White eye on male</li><li>White flight feathers on upperwing</li><li>White belly and white underwing in flight</li>";
+			family = Anseranatidae;
+			genus = Aythya;
+			habitat = "Hardheads usually inhabit large, deep terrestrial wetlands with abundant aquatic vegetation, where they are usually seen swimming in open water and avoid dense cover; they are occasionally recorded in sheltered estuarine waters.";
+			identifier = "215 Hardhead";
+			"identifyingCharacteristics" = "A medium-sized duck, the Hardhead is readily recognised by its chocolate-coloured plumage. The sexes differ slightly. The head, neck and upperparts of the male are chocolate brown, with a rich chestnut tinge on the head and sides of the neck, and darker on the lower back, rump and tail. The chin, throat, foreneck and upper breast are brown; the lower breast and belly are contrasting white; the vent is brown; the under tail-coverts are white; and the tail is brown-grey. The upperwing is mostly brown with white flight feathers that have brown tips, forming a narrow brown trailing edge; the underwing is mostly white, with narrow brown leading and trailing edges. The eye is white, the bill is grey-black with a pale blue-grey band near the tip, and the legs and feet are grey-black. The female is similar to the male, but generally paler, and with a dark-brown eye, and the white saddle on the bill is more diffuse.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapHARD.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Hardhead Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illHARD01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illHARD02.jpg";
+				},
+				{
+					credit = Unknown;
+					filename = "imgHARD01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgHARD02.jpg";
+				},
+			);
+			species = australis;
+			squareCropImage = (
+				{
+					filename = "thmHARD.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Diving Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Captive female (P.Fullagar)";
+					filename = "audBBDU01.mp3";
+				},
+			);
+			biology = "They filter feed on the water\U2019s surface, sweeping the head to strain food items from soft mud or dive below the water to feed in the same manner. They are seldom seen on land, where they waddle with a penguin-like gait. In flight, they appear weighed down at the back, flying with rapid wing-beats. Their calls are seldom heard, but they often splash noisily in the water during displays.";
+			bite = 40cm;
+			class = "http://www.birdlife.org.au/bird-profile/blue-billed-duck";
+			commonNames = (
+				"Blue-billed Duck",
+				"Diving Duck, Little Musk Duck, Spiny-tailed Duck, Stiff-tailed Duck, Blue-bill Duck, Stiff-tail Duck, Spine-tail Duck, Diver, Diving-duck",
+			);
+			diet = "They may be mistaken for a female <b>Musk Duck</b>, but distinguished by the latter\U2019s flat crown (a Blue-bill\U2019s head is rounder), the shape of its bill (the Blue-billed is distinctly concave and lacks a lobe), its size (a Blue-billed is about half the size of a Musk) and its flatter posture in the water. May possibly also be confused with <b>Hardheads</b>, but look out for the white underwings and uniform brown plumage of the Hardhead.";
+			distinctive = "<li>Stiff tail</li><li>Sky-blue bill on breeding male</li>";
+			family = Anseranatidae;
+			genus = Oxyura;
+			habitat = "They inhabit large, deep terrestrial wetlands with abundant aquatic vegetation. They often occur in areas of open water surrounded by emergent vegetation.";
+			identifier = "216 Blue-billed Duck";
+			"identifyingCharacteristics" = "A small duck with a round head, the Blue-billed Duck has a characteristically stiff tail. The sexes are different, and there are seasonal differences. In breeding plumage the male has a black head and chestnut upperparts. The upper breast is also chestnut, and the lower breast, belly and vent are all silvery-grey. The wing is dark brown above and grey-brown below. The eye is dark brown, the bill sky-blue and the legs and feet are grey. The male in non-breeding plumage is similar to the female, which has a mid-grey head with faint flecking and a faint grey stripe behind the eye. Otherwise it is greyish with pale barring, heaviest on the upper breast, flanks, mantle, back and scapulars. The lower breast, belly and vent are silvery-grey with dark mottling. The bill is dark horn.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapBBDU.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "Near Threatened";
+			order = Anseriformes;
+			phylum = "Blue-billed Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illBBDU01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illBBDU02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgBBDU01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgBBDU02.jpg";
+				},
+			);
+			species = australis;
+			squareCropImage = (
+				{
+					filename = "thmBBDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Diving Ducks";
+			wcs = "Near Threatened";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "'K-plonk' (K.Gamble)";
+					filename = "audMUDU01.mp3";
+				},
+				{
+					credit = "'Whistle & whirr' (N.Robinson)";
+					filename = "audMUDU02.mp3";
+				},
+				{
+					credit = "'Plonk & whislte' (K.Gamble)";
+					filename = "audMUDU03.mp3";
+				},
+				{
+					credit = "'Yelp & whistle' (N.Robinson)";
+					filename = "audMUDU04.mp3";
+				},
+			);
+			biology = "Musk Ducks are usually solitary, but occasionally form small, loose flocks. They swim low in the water, usually with the stiff tail held horizontally, and dive often, but they seldom walk or fly. They usually forage by diving, but they may also occasionally strip the seeds from emergent vegetation. Musk Ducks are silent except for a whistle emitted by the male during displays, many of which involve kicking or splashing in the water.";
+			bite = "47-72cm";
+			class = "http://www.birdlife.org.au/bird-profile/musk-duck";
+			commonNames = (
+				"Musk Duck",
+				"Diving Duck, Steamer Duck, Lobed Duck, Diver, Mould Goose",
+			);
+			diet = "The female <b>Blue-billed Duck</b> is superficially similar, but is much smaller, has a distinctly round head, lacks a lobe on the bill and swims higher in the water. ";
+			distinctive = "<li>Triangular bill with leathery lobe</li><li>Stiff tail</li><li>Swims low in the water</li>";
+			family = Anseranatidae;
+			genus = Biziura;
+			habitat = "The Musk Duck usually inhabits terrestrial wetlands and estuarine and sheltered inshore waters. It prefers deep water at permanent wetlands that support abundant aquatic vegetation.";
+			identifier = "217 Musk Duck";
+			"identifyingCharacteristics" = "A large stiff-tailed duck, the Musk Duck has a broad, triangular bill with a characteristic lobe. The sexes differ slightly. The male is blackish brown on the head, neck and upperbody, with pale vermiculations on the back, rump and upper tail-coverts; the tail is stiff and black. The breast and abdomen are pale grey-brown, the flanks are blackish brown with pale-buff vermiculations and the under tail-coverts are blackish-brown. The wings are dark brown-grey with black flight feathers and no speculum. The bill is triangular and blackish, with a leathery grey-black lobe hanging below the lower mandible; the short legs and feet are dull slate-grey. The female is similar, but is slightly lighter in colour and has only a rudimentary lobe on the bill.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapMUDU.jpg";
+				},
+			);
+			nativeStatus = Endemic;
+			ncs = "";
+			order = Anseriformes;
+			phylum = "Musk Duck Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illMUDU01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illMUDU02.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgMUDU01.jpg";
+				},
+			);
+			species = lobata;
+			squareCropImage = (
+				{
+					filename = "thmMUDU.jpg";
+				},
+			);
+			taxonGroup = Waterfowl;
+			taxonSubgroup = "Diving Ducks";
+			wcs = "Least Concern";
+		},
+		{
+			audioFiles = (
+				{
+					credit = "Colony of adults, chicks (P.Fullagar)";
+					filename = "audCAEG01.mp3";
+				},
+			);
+			biology = "Cattle Egrets are often seen foraging in small or large flocks in pasture in association with grazing animals (not just cattle). They walk slowly, with the head bobbing backwards and forwards, peering at the ground, then dashing quickly after prey, especially insects but also other arthropods and small vertebrates. Their flight is swift and rapid, with the legs not protruding beyond the tail. They are usually silent away from their breeding grounds.";
+			bite = 51cm;
+			class = "http://www.birdlife.org.au/bird-profile/cattle-egret";
+			commonNames = (
+				"Cattle Egret",
+				"Buff-backed Heron",
+			);
+			diet = "The Cattle Egret is a similar size to the <b>Little Egret</b>, but it is stouter (the Little Egret is slender with a longer neck) and never has a black bill (Little always has a black bill). They are also readily distinguished from the more elegant <b>Eastern Great Egret</b>, which is much larger and has a proportionally much longer neck and legs, and has a noticeably flat head. The <b>Intermediate Egret</b> is also longer necked and less stocky.";
+			distinctive = "<li>Stocky proportions, with short neck and legs</li><li>Stout bill</li>";
+			family = Ardeidae;
+			genus = Ardea;
+			habitat = "Cattle Egrets regularly occur in pasture and other moist grassy habitats, often well away from wetlands; however they are also recorded at shallow, open, freshwater wetlands, especially those with abundant aquatic vegetation.";
+			identifier = "977 Cattle Egret";
+			"identifyingCharacteristics" = "A stocky heron, the Cattle Egret has a stout yellow bill and short legs. The sexes appear similar (though males are heavier), and there is seasonal variation. During the breeding season they have much buffy or orange plumage, but its extent varies greatly. The head, neck, scapulars, mantle and breast may show varying amounts of white, buffy or orange plumage. The back, tail, wings and abdomen are white. The bill is bright red with a yellow tip before and during the courtship period, and the lores are magenta, the eyes red and the legs red or orange brown; after the pairs are formed, the bill and lores fade to yellow, and the eyes are yellow; during incubation the bill becomes dark grey-green. During the non-breeding season the plumage is entirely white, and the bill and lores are yellow, the eyes are cream or yellow, and the legs and feet are dark green-grey or blackish.";
+			lcs = "";
+			mapImage = (
+				{
+					filename = "mapCAEG.jpg";
+				},
+			);
+			nativeStatus = "";
+			ncs = "";
+			order = Ciconiiformes;
+			phylum = "Cattle Egret Species Profile";
+			profileImages = (
+				{
+					credit = "Jeff Davies";
+					filename = "illCAEG01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illCAEG02.jpg";
+				},
+				{
+					credit = "Jennifer Sutfin";
+					filename = "imgCAEG01.jpg";
+				},
+			);
+			species = ibis;
+			squareCropImage = (
+				{
+					filename = "thmCAEG.jpg";
+				},
+			);
+			taxonGroup = "Egrets & Herons";
+			taxonSubgroup = Egrets;
+			wcs = "Least Concern";
+		},
+	);
+	versionID = "1.1";
+}

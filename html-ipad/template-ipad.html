@@ -1,0 +1,92 @@
+<!doctype html>
+<head>
+    <link href="style.css" rel="stylesheet" type="text/css">
+        <script>
+            /* Activate Widget Flip */
+            function toggleFlip(objectid) {
+                currentobj = document.getElementById(objectid);
+                if (currentobj.className.indexOf("flip") != -1) {
+                    currentobj.className = currentobj.className.replace( " flip", "");
+                } else {
+                    currentobj.className += " flip";
+                }
+            }
+            </script>
+</head>
+<body>
+    
+	<div class="leftcolumn">
+        
+		<header>
+			<h1><%animalName%></h1>
+			<h2><%scientificName%></h2>
+		</header>
+        
+		<h3 class="<%commonNamesClass%>">Other Common Names</h3><p><%commonNames%></p>
+		<h3>Size </h3><p><%bite%></p>
+        <h3>Distinctive Markings</h3><ul id="distinctive"><%distinctive%></ul>
+		<h3>Identifying Characteristics</h3><p><%identifyingCharacteristics%></p>
+		<h3>Behaviour</h3><p><%biology%></p>
+		<h3 class="<%dietClass%>">Similar Species</h3><p><%diet%></p>
+		<h3>Habitat</h3><p><%habitat%></p>
+        <h3 class="<%nativeClass%>">Native Status</h3><p><%native%></p>
+        <h3 class="<%phylumClass%>">More Information</h3><a id="moreinfo" class="<%phylumClass%>" href="<%class%>"><%phylum%></a>
+        <p>&nbsp;</p>
+    </div><!-- end .leftcolumn -->
+	
+	<div class="rightcolumn">
+		<div class="widget" id="distribution">
+			<div class="front">
+				<h3>Distribution<span class="infobutton" onClick="toggleFlip('distribution')"></span></h3>
+				<img class="distributionimage" src="<%mapimage%>" />
+				<p>Red dots indicate reported and verified bird sightings, held in BirdLife Australia&#039;s Atlas of Australian Birds</p>
+			</div>
+			<div class="back">
+				<h3>About <span class="light">Distribution</span><span onClick="toggleFlip('distribution')" class="button">Done</span></h3>
+				<img class="distributionimage" src="<%mapimage%>" />
+				<p class="hidden">Red dots indicate reported and verified bird sightings, held in BirdLife Australia&#039;s Atlas of Australian Birds</p>
+				<div class="overlay">
+                    <p>These maps are generated from data collected for the 'New Atlas of Australian Birds', the result of over half a million hours of surveys by more than 7,000 BirdLife Australia volunteers, whom we would like to thank for this fantastic effort.</p>
+                    <p>Monitoring of Australian birds through the Atlas project continues, and plays an important role in tracking the effects of changes on bird populations and habitats.</p>
+                    <p>If interested visit <a href="http://birdlife.org.au/projects/atlas-and-birdata">Atlas &amp; Birdata</a>. </p>
+				</div>
+			</div>
+		</div>
+		<div class="widget" id="status">
+			<div class="front">
+				<h3>Endangered Status<span class="infobutton" onClick="toggleFlip('status')"></span></h3>
+				<ul>
+					<li><img src="icon_birdlife.png" alt="Local" /><div class="track"><span class="<%lcs%>"></span>Action Plan (2010): <%lcs%></div></li>
+					<li><img src="icon_country.png" alt="National" /><div class="track"><span class="<%ncs%>"></span>EPBC Act (1995): <%ncs%></div></li>
+					<li><img src="icon_world.png" alt="Worldwide" /><div class="track"><span class="<%wcs%>"></span>IUCN Red List: <%wcs%></div></li>
+				</ul>
+			</div>
+			<div class="back">
+				<h3>About <span class="light">Endangered Status</span><span onClick="toggleFlip('status')" class="button">Done</span></h3>
+				<div class="overlay">
+					<p>Information about the</p>
+                    <p><a href="http://www.birdsaustralia.com.au/homepage-news/new-action-plan-for-australian-birds.html">Action Plan for Australian Birds (2010)</a>. </p>
+					<p>Information about the</p>
+                    <p><a href="http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl">EPBC Act (1995)</a>. </p>
+					<p>Information about the</p>
+                    <p><a href="http://www.iucnredlist.org">IUCN Red List</a>. </p>
+				</div>
+			</div>
+		</div>
+        
+        <div class="widget" id="taxonomy">
+            <div class="front">
+                <table>
+                    <tr><th colspan="2">Taxonomy</th></tr>
+                    <tr class="even"><td>Order:</td><td><%order%></td></tr>
+                    <tr><td>Family:</td><td><%family%></td></tr>
+                    <tr class="even"><td>Genus:</td><td><em><%genus%></em></td></tr>
+                    <tr><td>Species:</td><td><em><%species%></em></td></tr>
+                </table>
+            </div>
+        </div>
+		
+	</div><!-- end .rightcolumn -->
+	
+</body>
+</html>
