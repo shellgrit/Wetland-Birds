@@ -22,29 +22,54 @@
 			<h2><%scientificName%></h2>
 		</header>
         
-		<h3 class="<%commonNamesClass%>">Other Common Names</h3><p><%commonNames%></p>
+		<h3 class="<%commonNamesClass%>">Other Common Names</h3>
+        <p><%commonNames%></p>
+        
+<!--    **********  NOTE ********** -->
+<!--    The variable <%bite%> is used for "size" -->
 		<h3>Size </h3><p><%bite%></p>
-        <h3>Distinctive Markings</h3><ul id="distinctive"><%distinctive%></ul>
+        
+<!--    <h3>Distinctive Markings</h3><ul id="distinctive"><%distinctive%></ul> -->
+        
 		<h3>Identifying Characteristics</h3><p><%identifyingCharacteristics%></p>
+        
 		<h3>Behaviour</h3><p><%biology%></p>
+        
 		<h3 class="<%dietClass%>">Similar Species</h3><p><%diet%></p>
+        
 		<h3>Habitat</h3><p><%habitat%></p>
+        
+<!--    ********** NOTE ********** -->
+<!--    The variable <%native%> is used and not the variable <%nativeStatus%> - possibly due to a bug -->
         <h3 class="<%nativeClass%>">Native Status</h3><p><%native%></p>
+        
+<!--    ********** NOTE ********** -->
+<!--    The variable <%class%>  is used for "birdLink"      -->
+<!--    The variable <%phylum%> is used for "birdLinkLabel" -->
         <h3 class="<%phylumClass%>">More Information</h3><a id="moreinfo" class="<%phylumClass%>" href="<%class%>"><%phylum%></a>
         <p>&nbsp;</p>
+        
     </div><!-- end .leftcolumn -->
 	
 	<div class="rightcolumn">
+		<div class="widget" id="distinctive">
+			<div class="front">
+				<h3>Distinctive Markings</h3>
+				<ul id="distinctive"><%distinctive%></ul>
+			</div>
+		</div>
 		<div class="widget" id="distribution">
 			<div class="front">
 				<h3>Distribution<span class="infobutton" onClick="toggleFlip('distribution')"></span></h3>
 				<img class="distributionimage" src="<%mapimage%>" />
 				<p>Red dots indicate reported and verified bird sightings, held in BirdLife Australia&#039;s Atlas of Australian Birds</p>
+                <p>&nbsp;</p>
 			</div>
 			<div class="back">
 				<h3>About <span class="light">Distribution</span><span onClick="toggleFlip('distribution')" class="button">Done</span></h3>
 				<img class="distributionimage" src="<%mapimage%>" />
 				<p class="hidden">Red dots indicate reported and verified bird sightings, held in BirdLife Australia&#039;s Atlas of Australian Birds</p>
+                <p class="hidden">&nbsp;</p>
 				<div class="overlay">
                     <p>These maps are generated from data collected for the 'New Atlas of Australian Birds', the result of over half a million hours of surveys by more than 7,000 BirdLife Australia volunteers, whom we would like to thank for this fantastic effort.</p>
                     <p>Monitoring of Australian birds through the Atlas project continues, and plays an important role in tracking the effects of changes on bird populations and habitats.</p>
