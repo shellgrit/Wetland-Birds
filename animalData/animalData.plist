@@ -1242,6 +1242,14 @@
 					credit = "Jeff Davies";
 					filename = "illMDLA01.jpg";
 				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgMDLA01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgMDLA02.jpg";
+				},
 			);
 			species = miles;
 			squareCropImage = (
@@ -1292,6 +1300,10 @@
 				{
 					credit = "Chris Tzaros";
 					filename = "imgRCPL01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgRCPL02.jpg";
 				},
 			);
 			species = ruficapillus;
@@ -1626,6 +1638,10 @@
 				{
 					credit = "Jeff Davies";
 					filename = "illCOGR01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgCOGR01.jpg";
 				},
 			);
 			species = nebularia;
@@ -3133,6 +3149,10 @@
 					credit = "Jeff Davies";
 					filename = "illWWDU01.jpg";
 				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgWWDU01.jpg";
+				},
 			);
 			species = arcuata;
 			squareCropImage = (
@@ -3187,6 +3207,14 @@
 				{
 					credit = "Jeff Davies";
 					filename = "illAUSH02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAUSH01.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAUSH02.jpg";
 				},
 			);
 			species = tadornoides;
@@ -3743,6 +3771,10 @@
 					credit = "Andrew Silcocks";
 					filename = "imgMUDU01.jpg";
 				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgMUDU02.jpg";
+				},
 			);
 			species = lobata;
 			squareCropImage = (
@@ -3797,6 +3829,10 @@
 				{
 					credit = "Jennifer Sutfin";
 					filename = "imgCAEG01.jpg";
+				},
+				{
+					credit = "Andrew Silcocks";
+					filename = "imgCAEG02.jpg";
 				},
 			);
 			species = ibis;
