@@ -990,10 +990,6 @@
 					credit = "Dean Ingwersen";
 					filename = "imgLPCO02.jpg";
 				},
-				{
-					credit = "Dean Ingwersen";
-					filename = "imgLPCO03.jpg";
-				},
 			);
 			species = melanoleucos;
 			squareCropImage = (
@@ -3214,7 +3210,7 @@
 				},
 				{
 					credit = "Chris Tzaros";
-					filename = "imgAUSH02.jpg";
+					filename = "imgAUSH03.jpg";
 				},
 			);
 			species = tadornoides;
@@ -3331,8 +3327,12 @@
 					filename = "illCHTE01.jpg";
 				},
 				{
-					credit = "Andrew Silcocks";
+					credit = "Keith Hindley";
 					filename = "imgCHTE01.jpg";
+				},
+				{
+					credit = "Keith Hindley";
+					filename = "imgCHTE02.jpg";
 				},
 			);
 			species = castanea;
@@ -3827,7 +3827,7 @@
 					filename = "illCAEG02.jpg";
 				},
 				{
-					credit = "Jennifer Sutfin";
+					credit = "Keith Hindley";
 					filename = "imgCAEG01.jpg";
 				},
 				{
