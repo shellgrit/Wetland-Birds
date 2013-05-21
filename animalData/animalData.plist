@@ -2587,10 +2587,6 @@
 					filename = "illEGEG03.jpg";
 				},
 				{
-					credit = "Jeff Davies";
-					filename = "illEGEG04.jpg";
-				},
-				{
 					credit = "Ashley Herrod";
 					filename = "imgEGEG01.jpg";
 				},
@@ -3218,7 +3214,7 @@
 				},
 				{
 					credit = "Chris Tzaros";
-					filename = "imgAUSH03.jpg";
+					filename = "imgAUSH02.jpg";
 				},
 			);
 			species = tadornoides;
@@ -3467,10 +3463,6 @@
 				{
 					credit = "Jeff Davies";
 					filename = "illANSH02.jpg";
-				},
-				{
-					credit = "Jeff Davies";
-					filename = "illANSH03.jpg";
 				},
 				{
 					credit = "Dave Watts";
