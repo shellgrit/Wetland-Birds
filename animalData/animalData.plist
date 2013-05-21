@@ -2398,6 +2398,14 @@
 					filename = "illBNST01.jpg";
 				},
 				{
+					credit = "Jeff Davies";
+					filename = "illBNST02.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illBNST03.jpg";
+				},
+				{
 					credit = "Chris Purnell";
 					filename = "imgBNST01.jpg";
 				},
@@ -3325,6 +3333,10 @@
 				{
 					credit = "Jeff Davies";
 					filename = "illCHTE01.jpg";
+				},
+				{
+					credit = "Jeff Davies";
+					filename = "illCHTE02.jpg";
 				},
 				{
 					credit = "Keith Hindley";
