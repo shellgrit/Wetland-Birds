@@ -1058,12 +1058,16 @@
 					filename = "imgAUDA01.jpg";
 				},
 				{
-					credit = "Jennifer Sutfin";
+					credit = "Kim Croker";
 					filename = "imgAUDA02.jpg";
 				},
 				{
 					credit = "Jennifer Sutfin";
 					filename = "imgAUDA03.jpg";
+				},
+				{
+					credit = "Jennifer Sutfin";
+					filename = "imgAUDA04.jpg";
 				},
 			);
 			species = novaehollandiae;
@@ -1653,7 +1657,7 @@
 		{
 			audioFiles = (
 				{
-					credit = "Alarm, contact calls (F.van Gessel)";
+					credit = "Alarm, contact (F.van Gessel)";
 					filename = "audMASA01.mp3";
 				},
 				{
@@ -1990,7 +1994,7 @@
 					filename = "audBROL01.mp3";
 				},
 				{
-					credit = "Birds taking flight (R.Buckingham)";
+					credit = "Taking flight (R.Buckingham)";
 					filename = "audBROL02.mp3";
 				},
 				{
@@ -3171,7 +3175,7 @@
 					filename = "audAUSH01.mp3";
 				},
 				{
-					credit = "Male/deep, female/soft (R.Buckingham)";
+					credit = "Male, female (R.Buckingham)";
 					filename = "audAUSH02.mp3";
 				},
 			);
@@ -3213,8 +3217,12 @@
 					filename = "imgAUSH01.jpg";
 				},
 				{
-					credit = "Chris Tzaros";
+					credit = "Peter Gower";
 					filename = "imgAUSH02.jpg";
+				},
+				{
+					credit = "Chris Tzaros";
+					filename = "imgAUSH03.jpg";
 				},
 			);
 			species = tadornoides;
@@ -3586,6 +3594,10 @@
 					credit = Unknown;
 					filename = "imgFRDU01.jpg";
 				},
+				{
+					credit = "Les Peters";
+					filename = "imgFRDU02.jpg";
+				},
 			);
 			species = naevosa;
 			squareCropImage = (
@@ -3793,7 +3805,7 @@
 		{
 			audioFiles = (
 				{
-					credit = "Colony of adults, chicks (P.Fullagar)";
+					credit = "Colony adults/chicks (P.Fullagar)";
 					filename = "audCAEG01.mp3";
 				},
 			);
